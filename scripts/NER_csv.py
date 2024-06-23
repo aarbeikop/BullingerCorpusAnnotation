@@ -2,7 +2,7 @@ import os
 import csv
 import re
 from lxml import etree
-from NERTagger import EntityTagger  # Make sure this import is correct based on your environment
+from NERTagger import EntityTagger 
 
 class SentenceExtractor:
     def __init__(self, entity_directory, input_directory, exclude_directory):

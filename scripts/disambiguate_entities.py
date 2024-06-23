@@ -1,4 +1,5 @@
 import os
+import argparse
 from collections import defaultdict
 import string
 
@@ -54,7 +55,13 @@ def check_files_for_double_occurrences(directory):
 
     return entity_dicts
 
-# Usage example
-directory = '/Users/isabellecretton/Desktop/UGBERT/SEMESTER_4/CREATION-ANNOTATION/project/calir-bullingerproject/entities'  # Replace with the actual directory path
-updated_entity_dicts = check_files_for_double_occurrences(directory)
+def main():
+    parser = argparse.ArgumentParser(description='Disambiguate entities in persons and places files.')
+    parser.add_argument('directory', type=str, help='Directory containing the entity files.')
+    args = parser.parse_args()
 
+    updated_entity_dicts = check_files_for_double_occurrences(args.directory)
+    print("Entity disambiguation complete.")
+
+if __name__ == "__main__":
+    main()

@@ -17,7 +17,7 @@ Acknowledging the multilingual aspect of the Bullinger corpus, we implement a cu
 
 ### Named Entity Recognition and Linking
 
-Our process extends to the identification and tagging of named entities within the texts. Utilizing a custom EntityTagger class, we extract and categorize entities into predefined groups (persons and places). The tagger leverages dictionaries compiled from the already annotated texts and utilizes the Levenshtein distance algorithm to identify and tag entities with high accuracy, even accounting for variances in spelling or phrasing. We use true-casing to minimise false positives at the beginning of sentences. 
+Our process extends to the identification and tagging of named entities within the texts. Utilizing a custom EntityTagger class, we extract and categorize entities into predefined groups (persons and places) by running the `NER_storage.py` on our annotated corpus. The tagger then leverages dictionaries compiled from the already annotated texts and utilizes the Levenshtein distance algorithm to identify and tag entities with high accuracy, even accounting for variances in spelling or phrasing. We use true-casing to minimise false positives at the beginning of sentences. 
 
 ## Implementation Details
 
@@ -31,6 +31,19 @@ The core of our project relies on Python scripts to process XML files containing
 4. **Tokenize and Preserve Structure:** Texts are segmented into sentences while retaining original structural elements like line breaks.
 5. **Named Entity Recognition:** Entities are identified and tagged in the text, using a combination of rule-based and probabilistic approaches.
 
-## Conclusion
+## How to run 
 
-The CALiR-BullingerProject streamlines the analysis and annotation of historical texts by combining sentence boundary detection, language tagging, and named entity recognition. By automating these processes, the project contributes to the ongoing aids in the annotation of Heinrich Bullinger's extensive writings.
+1. **To scrape and store tagged entities run the following command in your terminal**: 
+```
+    python NER_storage.py /path/to/input/directory extracted_persons.txt extracted_places.txt
+```
+2. **Optional** we also created a script to disambiguate certain entities, should they be in both entity dictionaries. To disambiguate run:
+```
+    python disambiguate_entities.py /path/to/directory
+```
+3. **Finally, to annotate, run:**
+```
+    python Annotator.py --input_dir [path/to/input] --output_dir [path/to/output] --lang_data_dir [path/to/language/model/data]
+```
+
+

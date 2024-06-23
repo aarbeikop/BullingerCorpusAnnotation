@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Parameters
-csv_file_path = '/Users/isabellecretton/Desktop/UGBERT/SEMESTER_4/CREATION-ANNOTATION/project/calir-bullingerproject/output_filtered_accuracy.csv'
-directory_to_check = '/Users/isabellecretton/Desktop/UGBERT/SEMESTER_4/CREATION-ANNOTATION/project/calir-bullingerproject/lb_files_auto'
+csv_file_path = '/calir-bullingerproject/output_filtered_accuracy.csv'
+directory_to_check = '/calir-bullingerproject/lb_files_auto'
 mismatch_output_file = 'error-clean.csv'  # File to write mismatches
 column1 = 'Label'
 column2 = 'My Tagger Entity'

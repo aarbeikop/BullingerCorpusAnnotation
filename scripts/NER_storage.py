@@ -37,11 +37,11 @@ def extract_entities(directory, output_persons, output_places):
                         places_file.write(f'{place_name}, {place_id}\n' if place_id else f'{place_name}\n')
 
 
-# Specify the input directory and output files
-input_directory = '/Users/isabellecretton/Desktop/UGBERT/SEMESTER_4/CREATION-ANNOTATION/project/calir-bullingerproject/letters_ohne_GS'
+
+input_directory = 'calir-bullingerproject/letters_ohne_GS'
 output_persons = 'extracted_persons.txt'
 output_places = 'extracted_places.txt'
 
-# Run the function
+
 extract_entities(input_directory, output_persons, output_places)
 
