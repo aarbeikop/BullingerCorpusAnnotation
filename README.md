@@ -1,8 +1,9 @@
-# CALiR-BullingerProject
+# Bullinger Corpus Annotation: Enhancing Historical Document Annotation Accuracy through Rule-Based NLP Techniques in the Bullinger Corpus
 
 ## Description
 
-The Bullinger Project is a collaborative research platform dedicated to the annotation of historical document transcriptions, specificaally letters written to and from Heinrich Bullinger, a key figure in the Protestant Reformation. This project was completed in the context of a semester project for the FS24 semester course "Creation and Annotation of Linguistic Ressources".
+The Bullinger Project is a collaborative research platform dedicated to the annotation of historical document transcriptions, specifically letters written to and from Heinrich Bullinger, a key figure in the Protestant Reformation. This project was completed in the context of a semester project for the FS24 semester course "Creation and Annotation of Linguistic Ressources".
+
 ## Methodology
 
 The project employs methodology to annotate historical documents, consisting of the following steps:
