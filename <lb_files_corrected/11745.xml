@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:id="file11745" type="Brief" source="HBBW-12" n="1700">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Martin Frecht / Ulm an Heinrich Bullinger, 9. Dezember 1542</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl n="15" type="transcription">Heinrich Bullinger Werke, Briefwechsel Band 12 (Briefe des Jahres 1542), bearb. von Rainer Henrich, Alexandra Kess und Chistian Moser, Zürich 2006, 299 S., ISBN 978-3-290-17431-6.</bibl>
+				<bibl n="15" type="regest">Heinrich Bullinger Werke, Briefwechsel Band 12 (Briefe des Jahres 1542), bearb. von Rainer Henrich, Alexandra Kess und Chistian Moser, Zürich 2006, 299 S., ISBN 978-3-290-17431-6.</bibl>
+				<bibl n="15" type="footnotes">Heinrich Bullinger Werke, Briefwechsel Band 12 (Briefe des Jahres 1542), bearb. von Rainer Henrich, Alexandra Kess und Chistian Moser, Zürich 2006, 299 S., ISBN 978-3-290-17431-6.</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 343,262r.-v.</idno>
+						<altIdentifier>
+							<idno subtype="Autograph">E II 343a,262r.-v.</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p><p><persName>Vadian</persName> [am 4.
+								Dezember] gebeten, [Nachrichten] an Bullinger weiterzuleiten; nun sind die aus
+								<placeName>Nürnberg</placeName> zurückkehrenden Zürcher doch noch eingetroffen, die er
+								bereits zu Hause wähnte. Hat durch <persName ref="p17881">[Johannes] Brenz</persName> eine Schrift von <persName>Sebastian Coccyus</persName> erhalten, die sich gegen ein
+								Büchlein <persName>Schwenckfelds</persName> richtet; Bullingers Verteidigung der [von
+								<persName>Schwenckfeld</persName> so genannten] „Kreaturisten“ ist etwas knapp
+								ausgefallen; <persName ref="p5074">Frecht</persName> will <persName>Vadians</persName> Schrift über 13 Irrtümer
+								<persName>Schwenckfelds</persName> nach <placeName>Nürnberg</placeName>
+								und <placeName>Wittenberg</placeName> schicken und rühmt den [von Bullinger
+								herausgegebenen] Auszug aus <persName>Vadians</persName> [antischwenckfeldischen] Schriften, den er
+								<persName ref="p17881">Brenz</persName> übersendet; <persName>Schwenckfeld</persName>
+								erklärte zwar am Tisch <persName>Ludwigs von Freyberg</persName>, dieses Büchlein bestärke ihn in seiner Haltung, doch ihm fehlt
+								Bildung und Menschenverstand, wie auch <persName ref="p18889">Luther</persName> sagt. Das
+								[habsburgische] Heer ist in <placeName>Ungarn</placeName> nicht durch die Türken
+								besiegt worden; an den schweren Verlusten sollen vielmehr äußere Umstände, Unfähigkeit, Verrat und
+								Geschäftemacherei schuld sein. [Die niederländische Statthalterin] Maria hat
+								<placeName>Jülich</placeName> und <placeName>Kleve</placeName> wieder
+								besetzt, die Verteidiger hinrichten lassen und die Einwohner unter erniedrigenden Umständen vertrieben. Es
+								heißt, <persName>Kaiser [Karl V.]</persName> sei in
+								<placeName>Genua</placeName> angekommen und beabsichtige, den Reichstag in
+								<placeName>Nürnberg</placeName> zu besuchen und den Krieg in
+								<placeName>Ungarn</placeName> zu erneuern; man vermutet, er suche die Unterstützung
+								[Philipps von Hessen] weniger
+								gegen den türkischen [<persName>Sultan Suleiman I.</persName>] als gegen den französischen
+								[<persName>König Franz I.</persName>], dessen
+								Türkenfreundlichkeit ein Pasquill beschreibt. Im Krieg um <placeName>Jülich</placeName>
+								droht eine Verwicklung des sächsischen Kurfürsten <persName>[Johann Friedrich]</persName> und des dänischen
+								Königs [<persName>Christian III.</persName>]. Herzog
+								<persName>[Heinrich] von Braunschweig</persName>
+								soll sich in <placeName>Landshut</placeName> aufhalten. Grüße, besonders an
+								<persName>Pellikan</persName> und <persName>Rudolf [Gwalther]</persName>. <persName>Schwenckfeld</persName> freut
+								sich über die Uneinigkeit der Theologen, wie sie sich an zwei Pfarrern in der Herrschaft seines Gastgebers
+								[<persName>Ludwig von Freyberg</persName>] zeigt; der Zwinglianer [<persName>Georg Keller</persName>] bestreitet gegenüber dem Lutheraner [<persName>Anton Örnberger</persName>] die Berechtigung des Redens vom „Darreichen“ des Leibes Christi, obwohl man sich in
+								<placeName>Basel</placeName> [1536] darauf geeinigt hat; da der Zwinglianer viel auf die
+								Schriften Bullingers und <persName>Calvins</persName> gibt, bittet
+								<persName ref="p5074">Frecht</persName> um eine schriftliche Stellungnahme Bullingers.
+								<persName>Bernhard Besserer</persName> ist gestorben, ebenso der krank aus
+								<placeName>Ungarn</placeName> zurückgekehrte
+								Martin Fuchs. Dank für die übersandten Büchlein.</p></p></summary>
+						<msItem>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 12, Nr. 1700, S. 264</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/11745">
+				<correspAction type="sent">
+					<persName ref="p1055" cert="high">
+						
+					</persName>
+					<placeName source="l513" cert="high"><orig>Ulm</orig></placeName>
+					<date when="1542-12-09" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file11746"/>
+					<ref type="prev_chronologically" target="file11744"/>
+					<ref type="next_correspondence" target="file11812"/>
+					<ref type="prev_correspondence" target="file11586"/>
+					<ref type="next_correspondence_request" target="file11812"/>
+					<ref type="prev_correspondence_request" target="file11586"/>
+					<ref type="next_correspondence_reaction" target="file12215"/>
+					<ref type="prev_correspondence_reaction" target="file11181"/>
+					<ref type="next_same_sender" target="file11812"/>
+					<ref type="prev_same_sender" target="file11586"/>
+					<ref type="next_same_addressee" target="file11747"/>
+					<ref type="prev_same_addressee" target="file11743"/>
+					<ref type="next_with_sender_as_addressee" target="file11812"/>
+					<ref type="prev_with_sender_as_addressee" target="file11586"/>
+					<ref type="next_with_addressee_as_sender" target="file11747"/>
+					<ref type="prev_with_addressee_as_sender" target="file11743"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1">Deutsch</language>
+				<language ident="el" usage="2">Griechisch</language>
+				<language ident="la" usage="997">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://iiif.bullinger-digital.ch/iiif/3/11745%2FAutograph%2F00%20E_II_343__fol__262_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">11745/Autograph/00 E_II_343__fol__262_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://iiif.bullinger-digital.ch/iiif/3/11745%2FAutograph%2F01%20E_II_343__fol__262_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">11745/Autograph/01 E_II_343__fol__262_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p><s n="1" xml:lang="la">S. in domino, clarissime Bullingere.</s>
+				</p><p><s n="1" xml:lang="de">Quam vellem ego pro dignitate respondere literisBullingers Brief ist nicht erhalten, vgl.</s>
+				<s n="2" xml:lang="de">aber die Bemerkungen zu dessen Inhalt im unten Anm.</s>
+				<s n="3" xml:lang="la">5 erwähnten Brief tuis amoris doctęque munificentię plenissimis!Frechts anVadian (Vadian BW VI 176).Sed partim mea me remoratur balbuties, partim vero impediunt publicę illę calamitates et extrema periculosa tempora, quę ea sunt, ut vix vivere, nedum scribere libeat et, ut tu scribis, etiam privatus foelix ob tam luctuosas communes calamitates plus nimium se infoelicem existimare debeat.Quis enim cum eximio illo Threnorum artifice non eiulans exclamet: „Quis nostro capiti dabit aquam et oculis nostris fontem lachrymarum“ [Jer 9, 1], ut tam fidelium Christi ministrorum mortemBullinger hatte sich zum Tod von utJohannes Zwick undLeo Jud geäußert (s.</s>
+				<s n="4" xml:lang="la">ebd.</s>
+				<s n="5" xml:lang="de">). super mortem unigenitorum et IosiarumZur Klage über den Tod des Königs Josia vgl.</s>
+				<s n="6" xml:lang="la">2 Chr 35, 25. plangamus.Recte enim tu scribis huiusmodi multos hinc tolli, ne superventura mala videant.Gratulabimur itaque eis beatiss[imam] hanc sortem suam, quod iam extra mortalium pressuras collocati illo, cui credidere et bonum certamen certarunt1 Tim 6, 12; 2 Tim 4, 7., nunc securi fruuntur.Sed ecclesię Christi condolemus, quę tot electis domini organis destituitur, quod damnum, ut nunc habent tempora, ęgre sarcitur.</s>
+				</p><p><s n="1" xml:lang="la">Cęterum hisce diebus clarissimo d.Vadiano scripsi rogitans, ut tibi communicet, quę ad eum dedi.Vadian BW VI 175-177,Nr.</s>
+				<s n="2" xml:lang="de">1269 (4.</s>
+				<s n="3" xml:lang="de">Dezember 1542).Existimavi vestros eNorinberga iampridem domum rediisse,Zur Reise von Zunftmeister et preter expectationem heri ad noctem mihi narratum, ut huc redierint, qui summo mane remigrare ad vos statuerint.Hans Wegmann nachNürnberg vgl.</s>
+				<s n="4" xml:lang="la">obenNr.</s>
+				<s n="5" xml:lang="la">1693, 41f, und untenNr.</s>
+				<s n="6" xml:lang="de">1705; über weitere Mitreisende ist sonst nichts bekannt.</s>
+				</p><p><s n="1" xml:lang="la">Brentius, quiqui in anno nihil ad meüber der Zeile nachgetragen., heri tamen satis amanter scripsitnach megestrichenes scripsit. et misit confutationem ludimagistriFrechts Briefwechsel mitJohannes Brenz ist nicht erhalten.Sebastiani Coccii superSebastian Coccyus (Gauch), von Cannstatt, geb.</s>
+				<s n="2" xml:lang="de">1504/05, gest.</s>
+				<s n="3" xml:lang="de">1562, stand seit 1533 der Lateinschule inSchwäbisch Hall vor, an der er bereits ca.</s>
+				<s n="4" xml:lang="de">1527-1531 als Kollaborator gewirkt hatte; dazwischen unterrichtete er 1531 inSchwabach und 1532 inDinkelsbühl.</s>
+				<s n="5" xml:lang="de">In enger Verbindung mitBrenz widmete er sich nicht nur der Verbesserung des Schulwesens, sondern auch dem publizistischen Kampf gegenSchwenckfeld.</s>
+				<s n="6" xml:lang="de">Vom Interim vertrieben, immatrikulierte er sich 1547 inHeidelberg.</s>
+				<s n="7" xml:lang="de">1548 war er Superintendent und Lesemeister am Stift in Öhringen (Hohenlohe-Kr.,Baden-Württemberg); ab 1551 lebte er als ErzieherPrinz Eberhards am württembergischen Hof.</s>
+				<s n="8" xml:lang="la">Die 1542 verfasste, aber anscheinend erst 1543 gedruckte Schrift "Kurtze verzeychnußSebastiani Coccyi Constatini auff herrCaspar Schwenckfelders büchlein von der göttlichen herrligkeyt der menscheyt Christi in der glorien etc.</s>
+				<s n="9" xml:lang="la">[...]", s.l.</s>
+				<s n="10" xml:lang="de">1543(VD 16 C 4236; vgl.CSch VIII 798-820, Nr.</s>
+				<s n="11" xml:lang="la">CCCCXXVII erhielt Bullinger im Frühjahr 1543 durchAmbrosius Blarer (s.Blarer BW II 178).</s>
+				<s n="12" xml:lang="la">- Lit.</s>
+				<s n="13" xml:lang="la">:OttoHaug, in:NDB VIII 303f.Schwenckfeldii libelloC[aspar] S[chwenckfeld], Von der göttlichen herrlichait der menschait Christi in der glorien [...], s.l.</s>
+				<s n="14" xml:lang="la">1542 Cattorum principi(VD 16 S 5048;CSch VIII 1-23, Nr.</s>
+				<s n="15" xml:lang="de">CCCLV).Landgraf dedicato.Philipp von Hessen.Tu satis solide, sed nimis breviter, ut tua pace hoc scribam, miseros creaturistasAls "Creaturisten" bezeichnete ab insolentia nobilis illius creatoristęSchwenckfeld seine Gegner, da diese die Geschöpflichkeit des erhöhten Christus lehrten; vgl.CSch VI 123, 11; 374, 16-18.Schwenckfeldii asseruisti.Frecht bezieht sich auf die in Bullingers Matthäuskommentar eingestreute Kritik anSchwenckfeld (vgl.</s>
+				<s n="16" xml:lang="la">obenNr.</s>
+				<s n="17" xml:lang="la">1673, Anm.</s>
+				<s n="18" xml:lang="la">5), wo Bullinger u. a. auf den Neologismus "creaturistae" eingeht (aaO, f.</s>
+				<s n="19" xml:lang="la">165r.</s>
+				<s n="20" xml:lang="la">).Vadianus 13 errores e libris illius spermologiVgl.</s>
+				<s n="21" xml:lang="de">Apg 17, 18. sublectos ad me misit, quos descriptosVadian hatteFrecht leihweise das Autograph dieser Schrift zugesandt (s.Vadian BW VI 172.</s>
+				<s n="22" xml:lang="de">175f), die (wohl erst im Frühjahr 1543) auch im Druck erschien: "Dreyzehen namhaffter irrthumbGaspar Schwenckfelds, außzogen auß seinen büchern, die er hat lassen ußgon von dem bekenntniß und der glori Christi [...]", [Zürich (Christoph Froschauer)] s. a.(VD 16 V 18).</s>
+				<s n="23" xml:lang="de">Zur Datierung des Drucks vgl.CSch VIII 627f.Norinbergam hincqueWittenpergam mittendos curaboBereits am 16.</s>
+				<s n="24" xml:lang="la">November hatte.FrechtVadian mitgeteilt, er werde eine Abschrift von dessen Werk anOsiander undVeit Dietrich sowie durch diese anMelanchthon senden; vgl.Vadian BW VI 172.</s>
+				<s n="25" xml:lang="la">175f.Vos, observandi fratres, optimam ecclesię Christi operam prestitistis, cum eVadiani libris libellum adfabre collectum edidistis Germanice"Grundtlicher bericht unnd außzug auß herren doctorn.Joachimen von Watt bücheren [...] anzeigend, ob Christus der herr auch in seiner glori nach seinem angenommnen fleisch creatur sye oder nit [...], [Zürich (Christoph Froschauer) 1542] (HBBibl I 707;BZD C 315;VD 16 V 3).</s>
+				<s n="26" xml:lang="de">InUlm war diese Publikation, die wegen einer graphischen Darstellung zur Christologie als "Zirkelbüchlein" verspottet wurde, bereits am 7.</s>
+				<s n="27" xml:lang="la">November bekannt; s.Vadian BW VI 168.Hunc libellum mitto hodie Halam Svevorum adBrentium, et nemo non piorum et doctorum illum magnopere comprobat et celebrat.</s>
+				</p><p><s n="1" xml:lang="la">Vos pergite et alia date, etsiὁ ϕλύαρος ille chrestologusVgl.</s>
+				<s n="2" xml:lang="de">Röm 16, 18. hunc libellum elevet et veluti e sublimi despiciat.Fertur enim inÖpfingen, pago ad Danubium, in mensa nobilisÖpfingen (Alb-Donau-Kr., Baden-Württemberg).Lutzs a Freybergs dixisse seLudwig (Lutz) von Freyberg-Angelberg (1468-1545), Herr zu Opfingen undJustingen, seit 1537 auch Bürger vonUlm, förderte in seinem kleinen Territorium ab Mitte der 1530er Jahre die Reformation.</s>
+				<s n="3" xml:lang="la">Sein Sohn Georg Ludwig (1507-1562), für den der Vater 1530 die HerrschaftJustingen erworben hatte, war ein Anhänger Schwenckfelds und gewährte diesem nach seiner Vertreibung ausUlm 1539 Zuflucht auf SchlossJustingen.</s>
+				<s n="4" xml:lang="la">- Lit.</s>
+				<s n="5" xml:lang="de">: Franz MichaelWeber,Kaspar Schwenckfeld und seine Anhänger in den freybergischen HerrschaftenJustingen und Opfingen.</s>
+				<s n="6" xml:lang="de">Ein Beitrag zur Reformationsgeschichte im Alb-Donau-Raum, Stuttgart 1962.</s>
+				<s n="7" xml:lang="la">-Veröffentlichungen der Kommission für geschichtliche Landeskunde in Baden-Württemberg, Reihe B, Bd.</s>
+				<s n="8" xml:lang="la">19, bes.</s>
+				<s n="9" xml:lang="la">S.</s>
+				<s n="10" xml:lang="la">1f.</s>
+				<s n="11" xml:lang="la">12-38.</s>
+				<s n="12" xml:lang="la">129. potius myriade auri carere velle quam isto libello, e quo in sua potius confirmetur opinione quam infirmetur.vor segestrichenes sa[?</s>
+				<s n="13" xml:lang="de">].O impudentem insolentiam hominis nulla literatura prediti et sensu communi carentis!Ita enim audioLutherum vocare hunc chrestologumVgl.</s>
+				<s n="14" xml:lang="la">etwa das Urteil in.Luthers Vorrede zu seiner Disputation de divinitate et humanitate Christi von 1540 (WA XXXIX/2 97, 6-9).</s>
+				</p><p><s n="1" xml:lang="de">De Hungaricis rebusBullinger hatte sich in seinem Brief offenbar zur gescheiterten Belagerung von quid rescribam?Pest geäußert; zur aktuellen Nachrichtenlage vgl.</s>
+				<s n="2" xml:lang="la">obenNr.</s>
+				<s n="3" xml:lang="la">1699, 24-33.Noster exercitus non quidem a Turcis turpiter aut fugatus aut cesus est, sed intemperabile damnum passus est vel ducum ignavia vel cum Turcis collusioneZu den zahlreich umlaufenden Verdächtigungen vgl.</s>
+				<s n="4" xml:lang="de">ebd..Hoc ferunt constanter: ex nostris non ultra 600 cecidisse in oppugnationePestę et crebris velitationibus cum Turcis agitatis, verum partim frigore, inedia, morbis, partim Hungarorum crudelibus artibus 20000 desyderata.Qui in bello sua etiam monopolia et venantiasDer Zusammenhang lässt vermuten, dass, ut vocant, exercent, misere adflixerunt nostros.Frecht mit seiner Wortbildung auf den wucherischen "Fürkauf" zielt (vgl.</s>
+				<s n="5" xml:lang="la">etwaGrimm IV/I 1 754f).Verum de iis alias latius.</s>
+				</p><p><s n="1" xml:lang="de">ReginaMaria denuo recuperavit Iuliacensem et Clivensem ditionemDer erneute Vorstoß der Truppen der niederländischen Statthalterin war wenig erfolgreich; vgl. et milites omnes in presidio positos trucidari iussit civibus proscriptis hoc ignominioso schemate: Solis indusiis vestiti et baculum in manibus gestantes coacti sunt cives ex urbibus migrare et solum vertere.Heidrich, Erbfolgestreit 74.</s>
+				<s n="2" xml:lang="de">-Zu diesem und den folgenden Gerüchten vgl.</s>
+				<s n="3" xml:lang="la">auchVadian BW VI 176.</s>
+				</p><p><s n="1" xml:lang="de">Fama est cesarem adpulisseGenuamDas Gerücht ist unzutreffend; et hinc in Germaniam profecturum, utKaiser Karl V. hielt sich zu diesem Zeitpunkt inSpanien auf (vgl.Stälin 576).Norinbergę comitiis presideatDer Reichstag zu et in Pannoniis bellum instauret.Nürnberg war um einen Monat auf den 14.</s>
+				<s n="2" xml:lang="la">Dezember 1542 verschoben worden, verbunden mit der Ankündigung, der Kaiser werde selbst daran teilnehmen; vgl.PC III 336;Heidrich,Karl V. 108.Plerosque subolet cesarem velle Cattorum principis opera uti magis contraGallum quamKönig Franz I. von Frankreich.Turcam, etsi pasquillus Gallo-Turcam suis pingat coloribusSultan Suleiman I.Gemeint ist offenbar der gegen das französisch-türkische Bündnis gerichtete "Pasquillus Romanus in novos mameluchos Turcogallos [...]", [s.l., s.a.]</s>
+				<s n="3" xml:lang="de">(Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Yh 987; vgl.</s>
+				<s n="4" xml:lang="de">auch Carl Göllner, Turcica.</s>
+				<s n="5" xml:lang="de">Die europäischen Türkendrucke des XVI.</s>
+				<s n="6" xml:lang="la">Jahrhunderts, J.</s>
+				<s n="7" xml:lang="la">Bd., Bukarest-Berlin 1961,.Nr.</s>
+				<s n="8" xml:lang="la">769).</s>
+				</p><p><s n="1" xml:lang="de">Dominus compescat hanc tempestatem in Iuliacensi agro, ne huic involvatur etiam electorSaxoKurfürst et rexJohann Friedrich von Sachsen.Danię, qui forte non facile deserent adfinem et sociumKönig Christian III.</s>
+				<s n="2" xml:lang="la">von Dänemark..Sibylle, die Ehefrau des sächsischen Kurfürsten, war eine Schwester HerzogWilhelms von Jülich, Berg undKleve (vgl.HBBW IV[Nr.</s>
+				<s n="3" xml:lang="la">427], S.</s>
+				<s n="4" xml:lang="de">287, Anm.</s>
+				<s n="5" xml:lang="de">20).</s>
+				<s n="6" xml:lang="de">Dessen Bemühungen um ein festes Bündnis mit den protestantischen Fürsten waren allerdings gescheitert; vgl.Heidrich, Erbfolgestreit 29-40.</s>
+				</p><p><s n="1" xml:lang="de">DuxBrunsvicensisHerzog ferturHeinrich von Braunschweig-Wolfenbüttel.Lantshutę apud BavarumLudovicumHerzog degereLudwig X. von Bayern.Vgl.</s>
+				<s n="2" xml:lang="la">oben.Nr.</s>
+				<s n="3" xml:lang="la">1650, Anm.</s>
+				<s n="4" xml:lang="de">9.Plura non possum.Boni ergo qualiacunque ista consule et reverenter me tuis charissimis symmystis commenda, quos et nostri resalutant mecum, inprimis venerandum senemPellicanum etRodolphum, sanctę memorięLeonis Iudę successorem.Rudolf Gwalther war am 2.</s>
+				<s n="5" xml:lang="de">Juli 1542 von der Kirchgemeinde St.</s>
+				<s n="6" xml:lang="de">Peter zum Nachfolger des am 19.</s>
+				<s n="7" xml:lang="de">Juni verstorbenenLeo Jud gewählt worden; vgl.</s>
+				<s n="8" xml:lang="la">seine diesbezügliche Notiz auf dem Vorsatzblatt seines griechischen Neuen Testaments (Zürich ZB, Bibi 34 p; für den Hinweis danken wir lic.</s>
+				<s n="9" xml:lang="de">phil.</s>
+				<s n="10" xml:lang="de">Kurt Jakob Rüetschi).</s>
+				</p><p><s n="1" xml:lang="la">Si non molestum esset, orarem te vehementer, ut rescribere ad me non gravareris de inita concordia in causa sacramentaria.Schwenck[feldius] enim, ecclesię turbator, angue et cane peius odit syncretismum et sanctam consensionem doctorum in ecclesia.Adagia, 2, 9, 63 (LB II 676f).HospesSchwenckfeldii, nobilis quidam,Gemeint ist der oben erwähnte habet duos praedicatores, quorum unus videtur nobis admodum crassus, ut vocant, Lutheranus esse,Ludwig von Freyberg.Der lutherisch gesinnte alter vero crassus Zwinglianus,Anton Ornberger (Or[e]nberger) war 1542-1544 Pfarrer inGriesingen (Alb-Donau-Kr., Baden-Württemberg) und anschließend im württembergischenHeidenheim, wo er 1547 starb.</s>
+				<s n="2" xml:lang="la">- Lit.</s>
+				<s n="3" xml:lang="la">:CSch VIII 312-317;Weber, aaO, S.</s>
+				<s n="4" xml:lang="de">32. qui videtur negare hoc, quodGeorg Keller, gen.</s>
+				<s n="5" xml:lang="de">Schramm Jörg, erhielt 1515 ein Pfründe inUlm, wo er bald zu den ersten evangelisch gesinnten Geistlichen gehörte.</s>
+				<s n="6" xml:lang="de">1536 trat er als scharfer Gegner derWittenberger Konkordie in Erscheinung.</s>
+				<s n="7" xml:lang="de">Nachdem er wegen seiner Polemik - insbesondere gegenFrecht - sein Amt als Helfer verloren hatte, wurde er Pfarrer im freybergischenÖpfingen.</s>
+				<s n="8" xml:lang="de">Der Konflikt schwelte noch längere Zeit weiter (vgl.</s>
+				<s n="9" xml:lang="de">auchBlarer BW II, Reg.</s>
+				<s n="10" xml:lang="de">s. v. Keller, Georg); letztmals ist von Keller die Rede, als er am 31.</s>
+				<s n="11" xml:lang="la">Juli 1544 vomUlmer Rat ermahnt wurde, sich an das Augsburgische Bekenntnis zu halten.</s>
+				<s n="12" xml:lang="la">- Lit.</s>
+				<s n="13" xml:lang="de">: TheodorKeim, Reformationsgeschichte der ReichsstadtUlm.</s>
+				<s n="14" xml:lang="la">Ein Beitrag zur schwäbischen und deutschen Reformationsgeschichte, Stuttgart 1851, S.</s>
+				<s n="15" xml:lang="la">34.</s>
+				<s n="16" xml:lang="la">37.</s>
+				<s n="17" xml:lang="la">98.</s>
+				<s n="18" xml:lang="la">336.</s>
+				<s n="19" xml:lang="de">348-353; [Karl Fr.]Keidel, Ulmische Reformationsakten von 1531 und 1532, in: Württembergische Vierteljahrshefte für Landesgeschichte IV, 1895, S.</s>
+				<s n="20" xml:lang="la">255-342 (hier S.</s>
+				<s n="21" xml:lang="de">278, Anm.</s>
+				<s n="22" xml:lang="la">5, und Reg.</s>
+				<s n="23" xml:lang="la">);CSch VIII 309-311;Weber, aaO, S.</s>
+				<s n="24" xml:lang="la">25-27; PaulHofer, Die Reformation imUlmer Landgebiet - religiöse, wirtschaftliche und soziale Aspekte, Diss.</s>
+				<s n="25" xml:lang="la">phil.Tübingen 1977, S.</s>
+				<s n="26" xml:lang="la">160.Basileę tamen dei gratia transactum est, ministerio ecclesię corpus Christi in coena credentibus exhiberi, subinde hoc urgens: Christus dixit: „Ego dabo“ [Joh 6, 51 (Vulg.</s>
+				<s n="27" xml:lang="la">52)] etc., quasi ista pugnent.Frecht bezieht sich auf Art.</s>
+				<s n="28" xml:lang="de">XXII[XXIII] des Ersten Helvetischen Bekenntnisses von 1536 (Schaff III 225-227).</s>
+				<s n="29" xml:lang="de">Obwohl der Begriff dort zu finden ist, vermied es Bullinger, vom "Darreichen" des Leibes Christi zu reden; vgl.</s>
+				<s n="30" xml:lang="la">obenNr.</s>
+				<s n="31" xml:lang="la">1685, 38-46.</s>
+				</p><p><s n="1" xml:lang="la">Christus ut autor dat et quidem solus, tamen per ecclesię ministerium.Ex isto dissidioSchwenck[feldius] occasionem arripit sese et suamSilesiacam opinionem defensurus et pasturus ministrorum dissensione animum et oculos suos.Gravat nos invidia, quasi in maximis mysteriis dissentiamus.Rogo ergo, aliquid perscribas, quod seniori nimis, ut cum pace eius dicam, crasse zwinglizanti ostendam.Nam tui nominis studiosus est et avidus lector lucubrationum tuarum.Sic etCalvinum nostrum merito suspicit, cuius etiam scriptis ille testatur se stare velle.</s>
+				</p><p><s n="1" xml:lang="de">Consul nosterBernhartus Besserer de republica nostra bene meritus obdormiit in dominoAm 21.</s>
+				<s n="2" xml:lang="de">November, s. Max, etHuber, in:NDB II 183.Martinus Fuchsius egrotus ex Pannoniis rediens huc, ubi Christum predicavit, ad dominum hinc migravit.Martin Fuchs, vonEsslingen, studierte ab 1510 inTübingen und wurde 1519 Kaplan in seiner Heimatstadt, wo er schon bald reformatorisch predigte.</s>
+				<s n="3" xml:lang="de">1524 musste er fliehen und wurde Helfer im badischenEttlingen (Kr.</s>
+				<s n="4" xml:lang="de">Karlsruhe); nachdem er 1528 auch von dort vertrieben worden war, wirkte er ab 1529 als Pfarrer inBennwil (Kt.Basel-Land) (s.ABaslerRef IIIff, Reg.)</s>
+				<s n="5" xml:lang="de">und ab 1531 erneut inEsslingen.</s>
+				<s n="6" xml:lang="de">Wegen seines Streits mit Jakob Otter 1533 entlassen, wandte er sich zunächst nach Straßburg.</s>
+				<s n="7" xml:lang="de">1534 wurde er erster evangelischer Pfarrer im württembergischen Neuffen (Kr.Esslingen).</s>
+				<s n="8" xml:lang="de">Er starb auf der Rückkehr vomUngarn-Feldzug, an dem er als Feldprediger teilgenommen hatte (vgl.</s>
+				<s n="9" xml:lang="de">auchVadian BW VI 176.</s>
+				<s n="10" xml:lang="de">178); die für ihn vorgesehene Pfarrstelle in Pleidelsheim (Kr.</s>
+				<s n="11" xml:lang="la">Ludwigsburg) konnte er nicht mehr antreten.</s>
+				<s n="12" xml:lang="la">- Lit.</s>
+				<s n="13" xml:lang="de">:Blarer BW I-II, Reg.</s>
+				<s n="14" xml:lang="la">; Akten zur Esslinger Reformationsgeschichte, hg.</s>
+				<s n="15" xml:lang="la">v. Helmuth Krabbe u. Hans Christoph Rublack,Esslingen 1981, bes.</s>
+				<s n="16" xml:lang="la">Nr.</s>
+				<s n="17" xml:lang="la">34.</s>
+				<s n="18" xml:lang="la">39.</s>
+				<s n="19" xml:lang="la">42.</s>
+				<s n="20" xml:lang="la">46f.</s>
+				<s n="21" xml:lang="de">155.</s>
+				<s n="22" xml:lang="de">253-273; Max-Adolf Cramer, Pfarrerbuch Innerwürttembergische Reichsstädte, Stuttgart 1991.</s>
+				<s n="23" xml:lang="la">- Baden-Württembergisches Pfarrerbuch III, S.</s>
+				<s n="24" xml:lang="la">44f,Nr.</s>
+				<s n="25" xml:lang="la">121.</s>
+				</p><p><s n="1" xml:lang="de">Bene vale, observande Bullingere, cui summas ago gratias pro missis libellisGemeint sind wohl mehrere Exemplare des oben Anm.</s>
+				<s n="2" xml:lang="la">16 erwähnten Büchleins; die Übersendung von Schriften; meum tandem erit etiam referre et paria aut pro mea voluntate maiora facere.Vadians durch Bullinger erwähntFrecht auch gegenüberVadian (Vadian BW VI 176).</s>
+				</p><p><s n="1" xml:lang="la">Raptim,Ulmę, 9. decembris 1542.</s>
+				</p><p><s n="1" xml:lang="la">T[uae] cl[aritudinis]Martinus totus ex animo.<lb/> Frechtus</s>
+				</p><p><s n="1" xml:lang="la">[Adresse darunter:]Clarissimo Tigurinę ecclesię antistiti d. Heynricho Bullingero, d[omino] et fratri cumprimis observando.Zürch.</s>
+				</p></div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:id="file6989" type="Brief" source="keine" n="">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Heinrich Bullinger / Zürich an [Hans Rudolf Bullinger], 3. Januar 1567</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="scan">Zürich ZB</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="">
+					<msIdentifier>
+						
+						<repository ref="a96"/>
+						<idno subtype="Autograph">Ms F 37,435</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<incipit>ich dank dir um din wildprät das fast gut sein wird</incipit>
+						</msItem>
+					</msContents>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/6989">
+				<correspAction type="sent">
+					<persName ref="p495" cert="high">
+						
+					</persName>
+					<placeName source="l587" cert="high"><orig>Zürich</orig></placeName>
+					<date when="1567-01-03" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p477" cert="low">
+						
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file6990"/>
+					<ref type="prev_chronologically" target="file6988"/>
+					<ref type="next_correspondence" target="file7005"/>
+					<ref type="prev_correspondence" target="file6975"/>
+					<ref type="next_correspondence_request" target="file7005"/>
+					<ref type="prev_correspondence_request" target="file6975"/>
+					<ref type="next_correspondence_reaction" target="file7659"/>
+					<ref type="prev_correspondence_reaction" target="file1129"/>
+					<ref type="next_same_sender" target="file6993"/>
+					<ref type="prev_same_sender" target="file6978"/>
+					<ref type="next_same_addressee" target="file7659"/>
+					<ref type="prev_same_addressee" target="file1129"/>
+					<ref type="next_with_sender_as_addressee" target="file6993"/>
+					<ref type="prev_with_sender_as_addressee" target="file6978"/>
+					<ref type="next_with_addressee_as_sender" target="file7659"/>
+					<ref type="prev_with_addressee_as_sender" target="file1129"/>
+				</correspContext>
+			</correspDesc>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://iiif.bullinger-digital.ch/iiif/3/6989%2FAutograph%2F00%20Ms%20F%2037%20(435)_00001.tif/full/max/0/default.jpg" n="1"><desc subtype="path">6989/Autograph/00 Ms F 37 (435)_00001.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://iiif.bullinger-digital.ch/iiif/3/6989%2FAutograph%2F01%20Ms%20F%2037%20(435)_00002.tif/full/max/0/default.jpg" height="3608px" width="5379px" n="2"><desc subtype="path">6989/Autograph/01 Ms F 37 (435)_00002.tif</desc></graphic>
+				<zone xml:id="p2z1-0" points="3322,1715 3265,1732 2915,1719 2872,1717 1971,1726 1972,1776 2871,1767 2888,1768 3271,1782 3336,1764">1972,1764 2872,1755 3270,1770 3333,1752</zone>
+				<zone xml:id="p2z2-0" points="3313,1855 3106,1845 2999,1837 1971,1865 1973,1915 2998,1887 3103,1895 3311,1905">1973,1903 2999,1875 3104,1883 3312,1893</zone>
+				<zone xml:id="p2z3-0" points="3298,1972 2628,1977 2102,1987 1978,2017 1989,2066 2108,2037 2629,2027 3299,2022">1987,2054 2107,2025 2629,2015 3299,2010</zone>
+				<zone xml:id="p2z4-0" points="2804,2406 2682,2399 2522,2411 2498,2413 2367,2414 2368,2464 2500,2463 2525,2461 2683,2449 2801,2456">2368,2452 2500,2451 2683,2437 2802,2444</zone>
+				<zone xml:id="p2z5-0" points="2155,2835 2014,2832 1983,2824 1901,2843 1912,2892 1982,2875 2007,2882 2154,2885">1910,2880 1983,2863 2009,2870 2155,2873</zone>
+		</surface>
+	</facsimile>
+	<text xml:lang="">
+		<body>
+			<div>
+				<p><s n="1" xml:lang="de"><lb xml:id="p1z1"/>Minem fürgeliepten<lb xml:id="p1z2"/>sun h. Hanßurodolffen<lb xml:id="p1z3"/>Bullingern, hinßpredichen zuͦ<lb xml:id="p1z4"/>Berg.<lb xml:id="p1z5"/>1546.</s>
+				</p></div>
+		</body>
+	</text>
+</TEI>

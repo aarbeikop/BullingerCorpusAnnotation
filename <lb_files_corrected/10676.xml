@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:id="file10676" type="Brief" source="HBBW-5" n="638">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Fridolin Brunner (Fonteius) / Glarus an Heinrich Bullinger, 31. August 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl n="7" type="transcription">Heinrich Bullinger Werke, Briefwechsel Band 5 (Briefe des Jahres 1535), bearb. von Hans Ulrich Bächtold, Rainer Henrich und Kurt Jakob Rüetschi, Zürich 1992, 507 S., ISBN 3-290-10856-2.</bibl>
+				<bibl n="7" type="regest">Heinrich Bullinger Werke, Briefwechsel Band 5 (Briefe des Jahres 1535), bearb. von Hans Ulrich Bächtold, Rainer Henrich und Kurt Jakob Rüetschi, Zürich 1992, 507 S., ISBN 3-290-10856-2.</bibl>
+				<bibl n="7" type="footnotes">Heinrich Bullinger Werke, Briefwechsel Band 5 (Briefe des Jahres 1535), bearb. von Hans Ulrich Bächtold, Rainer Henrich und Kurt Jakob Rüetschi, Zürich 1992, 507 S., ISBN 3-290-10856-2.</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 335,2013r-2014v</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p><p><placeName>Paris</placeName> Bedenkliches erfahren und bittet Bullinger als
+								anerkannten Vorkämpfer der Wahrheit, sich der Gefahr entgegenzustellen.
+								<persName ref="p18198">Bucer</persName> und <persName ref="p6490">Melanchthon</persName> sollen sich
+								beim französischen <persName>König [Franz I.]</persName> eingeschmeichelt haben, um Gelegenheit zu einer Disputation mit
+								<placeName>Pariser</placeName> Theologen zu erhalten; bereits sei ihnen freies Geleit
+								zugesichert worden, allerdings unter der Bedingung, nicht gegen den Papst aufzutreten. Inzwischen sollen sie
+								<persName>[Johannes] Sturm</persName> um Rat
+								gefragt haben, dessen Antwort <persName>Brunner</persName> nicht bekannt ist. In
+								<placeName>Paris</placeName> fürchtet man heimliche Machenschaften angesichts der
+								ungerechten Voraussetzungen für das Gespräch. Da nichts notwendiger ist als ein offener Kampf für die
+								Wahrheit, könnte ein solcher Sophistenkonvent mehr Schaden als Nutzen bringen. Fürchtet, daß
+								<persName ref="p18198">Bucer</persName> und <persName ref="p6490">Melanchthon</persName>
+								eigennützige Zwecke verfolgen und den Papisten in die Falle gehen. In
+								<placeName>Paris</placeName> heißt es, wenn
+								<persName ref="p6490">Melanchthon</persName> und <persName ref="p18198">Bucer</persName> nur kommen
+								wollten, um die lutherische Messe zu verteidigen, statt ohne jeden Vorbehalt gegen den Aberglauben zu
+								kämpfen, sollten sie sich besser die Reise sparen und die papistische Messe bestehen lassen. Bittet
+								Bullinger, sich dem gefährlichen Vorhaben entgegenzustellen. Ist bereit, ihm den Brief, den
+								<persName>Jakob Avienus [Vogel]</persName> aus dem
+								Französischen übersetzt hat, zuzustellen.</p></p></summary>
+						<msItem>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>Corr. des réformateurs III, S. 340-346, Nr. 525</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 5, Nr. 638, S. 339</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/10676">
+				<correspAction type="sent">
+					<persName ref="p8303" cert="high">
+						
+					</persName>
+					<placeName source="l176" cert="high"><orig>Glarus</orig></placeName>
+					<date when="1535-08-31" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file10678"/>
+					<ref type="prev_chronologically" target="file10675"/>
+					<ref type="next_correspondence" target="file11242"/>
+					<ref type="next_correspondence_request" target="file11242"/>
+					<ref type="next_correspondence_reaction" target="file4363"/>
+					<ref type="next_same_sender" target="file11242"/>
+					<ref type="next_same_addressee" target="file10684"/>
+					<ref type="prev_same_addressee" target="file10675"/>
+					<ref type="next_with_sender_as_addressee" target="file11242"/>
+					<ref type="next_with_addressee_as_sender" target="file10684"/>
+					<ref type="prev_with_addressee_as_sender" target="file10675"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="19">Deutsch</language>
+				<language ident="la" usage="981">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://iiif.bullinger-digital.ch/iiif/3/10676%2FAutograph%2F00%20E_II_335__fol__2013_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">10676/Autograph/00 E_II_335__fol__2013_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://iiif.bullinger-digital.ch/iiif/3/10676%2FAutograph%2F01%20E_II_335__fol__2013_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">10676/Autograph/01 E_II_335__fol__2013_v_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://iiif.bullinger-digital.ch/iiif/3/10676%2FAutograph%2F02%20E_II_335__fol__2014_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">10676/Autograph/02 E_II_335__fol__2014_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://iiif.bullinger-digital.ch/iiif/3/10676%2FAutograph%2F03%20E_II_335__fol__2014_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">10676/Autograph/03 E_II_335__fol__2014_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p><s n="1" xml:lang="la">Gratiam et pacem a domino etc.</s>
+				</p><p><s n="1" xml:lang="la">Candide atque ornatissime vir, nova quaedam et haud quidem comenticia, sed fortassis inauspicatissima nobis eLutetia augusti die 18. per virum pium syncerumque significataDer Brief eines unbekannten Absenders aus; ęadem aeque tuae humanitati transmittenda operaeprecium fore duxi.Paris scheint nicht erhalten zu sein.Hisce nempe cognitis impios quorundam conatus consiliaque intempestiva eo maturius felitiusque propugnare potes, quum equidem omnes pii, boni atque docti hanc tibi provinciam delegarunt, ut tu, quae dogmata in reipublicę christianę perniciem damnumve excogitata erectaque praesentiens, tanquam veritatis strenuus propugnator ea impugnare eliminareque obnixe incumbas.Quo quidem offitio hactenus satis dextre bonisque auspiciis functus es.</s>
+				</p><p><s n="1" xml:lang="de">Sed ut rem aggrediar, summa itaque novarum, quae inter alia tibi scitu digna aestimaveram, haec enim sunt: iam pridemBuzerum etMelanctonem diversa via Gallorum regis favorem eblanditos ea praecipue gratia, quo de religionis nostrae summa cumParisiensibus rabinis theologisque conflictari dissererequeinder Vorlage dissereque.Die Anhänger einer Reform hatten copia daretur (hac vero impetrata sibi polliciti sunt altercationes, convitia contentionesque pro rebus sacris non alia via remedioque melius atque facilius terminari posse).König Franz I. dazu bewogen,Melanchthon zu einer Audienz einzuladen;Bucer sollte ihn nachParis begleiten.</s>
+				<s n="2" xml:lang="la">Unterdessen war der Plan geändert worden:Melanchthon sollte mit den Doktoren der Sorbonne disputieren (wozu diese allerdings nicht bereit waren); von einer EinladungBucers wurde Abstand genommen.</s>
+				<s n="3" xml:lang="de">Vgl.Seidel 137-165.Iam animi factos compotes conducticiasque adeptos esse literas, quibus probe certificati; tutum iam illis atque liberum patere aditum, ea tamen lege, ut pontificem Romanum cum impietatis sede, caeremoniarum mendatiorumque sentina, intactum sinant, imo ne verbulo quidem damnare obpugnareque liceatFranz I. sandteMelanchthon am 28.</s>
+				<s n="4" xml:lang="la">Juni 1535 ein offizielles Einladungsschreiben (Corr.</s>
+				<s n="5" xml:lang="de">des réformateurs III 300f;MO II 879f; zum Datum:Melanchthon BW.</s>
+				<s n="6" xml:lang="la">Regesten II 189); überreicht wurde es ihm am 8.</s>
+				<s n="7" xml:lang="la">August, vgl.Melanchthon BW, Regesten II 195.Von einer solchen Bedingung ist im Brief des Königs nicht die Rede..Super hac re dilatione sumpta interim adSturmium - virum, ut aiunt, bonum - consilii ab eo captandi gratia scripsisseSowohl anxieBucer als auchMelanchthon waren durchJohannes Sturm von der Einladung unterrichtet worden (Corr.</s>
+				<s n="8" xml:lang="de">des réformateurs III 266-274;MO II 855-860).</s>
+				<s n="9" xml:lang="de">Im Unterschied zuBucer (s.Seidel 141) antworteteMelanchthon am 23.</s>
+				<s n="10" xml:lang="de">April mit schwerwiegenden Bedenken (MO II 874-877; zum Datum:Melanchthon BW.</s>
+				<s n="11" xml:lang="de">Regesten II 183). flagitantes, in hoc negotio amice syncereque consulat suique consilii quam primum certiores reddat.Quid ad haecSturmius illis consuluerit aut scripserit, non mihi patefactum est.Sturm versuchte in seiner Antwort vom 9.</s>
+				<s n="12" xml:lang="la">Juli (MO IV 1029-1033),Melanchthons Bedenken zu zerstreuen.Sed meo iudicio perpensiculatis probe conditionibus hac in re non multa deliberatione consultationeque opus fuisse coniectassem, quum aut parum prudens, hac in re quid faciundum foret, sibi recte inspectis perpensitatisque condictionibus et conducti exceptionibus consulere posset.</s>
+				</p><p><s n="1" xml:lang="la">Indicarunt ad haec literae id facti apudParisienses paucis piis placere eam profecto ob causam, quod timeant clandestinas practicationes et insidias, fatentes enim id negotii haud suspitione carere, quod disputatio praescriptis iniquis legibus sit admissa et conductum regium condictionibus sit sancitum, nempe quod papam in suis neniis, decretis mendatiisque protrahere, explodere de falsitateque convincere non sit concessum.</s>
+				</p><p><s n="1" xml:lang="la">Quis hic congressus est futurus, quum non libere omni ex parte veritati patrocinari liceat?Fortassis de lana caprinaum des Kaisers Bart; vgl. dissertio cum rabinis futura est.Adagia, 1, 3, 53 (LB II 133).Nihil enim hac tempestate magis necessarium erit, quam deploratae malignitatis pontificem, haereticorum incredulorumque pertinaciam erroremque devincere atque confutare.Nam ecclesia nullos aeque patitur hostes atque pontificios, qui veritati semper adversantes eiusque casum noctu diuque meditantes.Quos si scripturae sacrę armis propugnare atque vincere deque omnibus fidei nostrae articulis disputare liberum non erit, meo quidem iudicio affirmarim hunce conventum sophistarum rei christianę plus dispendii quam commodi allaturum fore, ecclesiae eciam tam frugiferum, ut olim papistica fuere concilia, quae semper (ut omnibus liquet) praemissis transacta sunt hisce legibus, quo papatus cum suis decretis atque commenticiis in vigore inviolatus permaneret, et nulli unquam libere concreditum impietatem iam manifestam absque eiaculatione obpugnare et imposturis obluctari.aus tranactakorrigiert.</s>
+				</p><p><s n="1" xml:lang="la">Quare siMartinus etMartin Bucer.Melancton praelectis prius conducti legibus nihilominus profectionem promoverint, fateor ingenue horum stultum institutum haud quaquam placere, propterea quod ne pius in spem duci possit ea ex re quid boni fructus proventurum.Timeo non parum eos fortassis plus laudis commodique proprii studiosiores quam Christi ea eciam impudentia futuros, ut talpis caeciosioresblinder als Maulwürfe; vgl. in sophistarum pontificiorumque sententiam postposita veritate pedibus eantAdagia, 1, 3, 55 (LB II 133f).sich der Meinung anschließen; vgl..Adagia, 2, 7, 12 (LB II 616f).Id nec non multiParisiis spectatę integritatis viri formidant et conqueruntur hisce verbis: SiMelancton etBuzerus non aliam ob causam huc se conferre in animo habent, quam ut missam Lutheranam cum suis fictis caeremoniis fundare adnitantur, et non iuxta verbi dei veritatem et regulam absque omni exceptione praescriptisque legibus humanis singula tractare omnemque superstitionem et errorem sive papę aut aliorum superciliosorum reformare eliminareque in votis nonnon habent, imo conditionibus praedictis acquiescere, praestare et melius fore fatentur, ut servata papistica missa cum suis caeremoniis domi pro longa profectione stertant.übergeschrieben.</s>
+				</p><p><s n="1" xml:lang="la">Cum itaque clare videamus hoc negotii in evangelii et veritatis periculum vergere, fac ideo, vir humanissime, ut pro virili huic conatui reclames horumque institutum verbo et opere remoreris.Semper eciam cura, ut non committas, quo usquam tuo offitio defuisse videaris.Sed quid in hac re faciundum siet, tibi satis superque perspectum arbitror.Nam sic meus stat animus: Quicquid enim fidelibus adversari praesumpserit, potenti dei manu comprimetur.Eciamsi potentissima se regna contra verbum dei erexerint, veritatis et virtutis divinae fortitudine prostementur.vor erexerintirrtümlich wiederholtes se.</s>
+				</p><p><s n="1" xml:lang="la">Vale bene.</s>
+				</p><p><s n="1" xml:lang="la">Glarianę, ultimo die augusti 15351535.am Rande nachgetragen.</s>
+				</p><p><s n="1" xml:lang="la">Deus optimus maximusque faxit, ut te nobis in reipublicae christianae comodum diudiu praeservet.übergeschrieben.</s>
+				</p><p><s n="1" xml:lang="la">Iterum vale etFridolinum tuum inter tuos ascribito clientulos amore, studio, offitio nemini cessurum.</s>
+				</p><p><s n="1" xml:lang="de">Litterae eLutetia missae gallico sermone scriptę sunt, sedIacobus Avienus, optimae spei vir, qui gallicum sermonem callens mihi eas interpretatus est.Jakob Vogel (Avienus), geb.</s>
+				<s n="2" xml:lang="de">vor 1510, gest.</s>
+				<s n="3" xml:lang="la">nach 1578, vonLinthal (Kt.Glarus), war 1517 Schüler vonKonrad Brunner inBasel und studierte 1521 inParis beiGlarean, durch den er Grüße anZwingli übermitteln ließ (Z VII 474f.</s>
+				<s n="4" xml:lang="de">483).</s>
+				<s n="5" xml:lang="la">Vor 1533 hielt er sich während längerer Zeit als Stipendiat inParis und beiAlciatus inBourges auf (s. Amerbach, Korr.</s>
+				<s n="6" xml:lang="de">IV 234).</s>
+				<s n="7" xml:lang="de">Über seine berufliche Tätigkeit ist nichts bekannt.</s>
+				<s n="8" xml:lang="de">Er hatte 1543-1550 das Amt des Landschreibers vonGlarus inne und wurde 1550 Landvogt im Gaster, außerdem trat er als Richter, Ratsherr und Gesandter in Erscheinung.</s>
+				<s n="9" xml:lang="de">Trotz seines evangelischen Glaubens war er ein ParteigängerFrankreichs und verdankte seinen Wohlstand teilweise französischen Pensionen.</s>
+				<s n="10" xml:lang="de">Im Glarnerhandel gehörte er zu den Gemäßigten unter den protestantischen Führern; am 23.</s>
+				<s n="11" xml:lang="la">September 1563 wandte er sich in dieser Sache brieflich an Bullinger (Zürich ZB, Ms A 66, 359).</s>
+				<s n="12" xml:lang="de">- Lit.</s>
+				<s n="13" xml:lang="de">: JakobWinteler, LandschreiberJakob Vogel vonGlarus, in:Zwa X/5, 1956, S.</s>
+				<s n="14" xml:lang="la">267-297;HBLS VII 286.Si itaque optares literulas ipsas, transmitterentur.Diutius enim tibi scripsisem, sisi semper tabellionem invenire fidum concederetur, quem absque periculo literis onerare liceret.übergeschrieben.</s>
+				</p><p><s n="1" xml:lang="la">Fridolinus Fonteius.<lb/> Glareanus</s>
+				</p><p><s n="1" xml:lang="de">[Adresse darunter:]Diser brieff gehört M. Heinrich Bullinger, predicant im münster Zürich, sinem vastsehr ( günstigenn h[erren] zu handenn.Grimm III 1348f).</s>
+				</p></div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:id="file12059" type="Brief" source="HBBW-14" n="2012">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Matthias Erb / Reichenweier an Heinrich Bullinger, 13. Oktober [1544]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl n="17" type="transcription">Heinrich Bullinger Werke, Briefwechsel Band 14 (Briefe des Jahres 1544), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2011, 645 S., ISBN 978-3-290-17565-8.</bibl>
+				<bibl n="17" type="regest">Heinrich Bullinger Werke, Briefwechsel Band 14 (Briefe des Jahres 1544), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2011, 645 S., ISBN 978-3-290-17565-8.</bibl>
+				<bibl n="17" type="footnotes">Heinrich Bullinger Werke, Briefwechsel Band 14 (Briefe des Jahres 1544), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2011, 645 S., ISBN 978-3-290-17565-8.</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 361,268</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p><p><persName ref="p7569">[Johannes] Fries</persName>
+								ihm gefällt; will sich einst revanchieren und übersendet zu Bullingers Prüfung die lateinische
+								[Widmungsepistel und Einleitung zu Bullingers Schrift „Resurrectio“], da Bullinger ihm Gelegenheit gab,
+								diese auf Latein zu drucken. Der erste [Stadt-]Schreiber [<persName>Oswald Fürstenlob</persName>] wird den empfohlenen Jüngling
+								[Gerold Meyer d.J.] als Lehrling bei sich aufnehmen, sobald <persName>[Hans] Vogler [d.J.]</persName> zu seiner Familie
+								zurückgekehrt sein wird. Um die Kirche [im <placeName>Elsass</placeName>] stände es
+								besser, wenn der neue [Landes-]Verwalter [<persName>Hans Henman (Amandus)</persName> Truchsess von Rheinfelden?] gegen die
+								Taugenichtse vorginge und die [neuen] Ordnungen schützte, doch ist er ein ganz übler Mensch; sehnlich wird
+								der Fürst [<persName>Graf Georg von Württemberg</persName>] aus
+								<placeName>Wildbad</placeName> zurückerwartet, um ihn zu entlassen. Gibt sich alle Mühe,
+								damit das von ihm und <persName>Erasmus [Schmid]</persName> Aufgebaute nicht zerstört wird und die Gegner triumphieren und ihn
+								vertreiben; falls er als alter Mann aber weichen müsste, würde er wieder in die
+								<placeName>Schweiz</placeName> zurückkehren; [die Zürcher] sollen für [die Elsässer]
+								beten. Wie bisher die Kirche von Mömpelgard, so werden sie von falschen Brüdern aus
+								<placeName>Württemberg</placeName>, besonders den Anhängern von <persName>[Erhard] Schnepf</persName>,
+								[d.h.] Neuerern und Zeremoniasten, hinterhältig angegriffen und stützen sich ganz auf das Wort Gottes. Die
+								Weinlese fällt sehr spärlich aus, eine Strafe<pb type="edition" next="464"/> für die undankbare Verschwendung
+								[der Menschen], gegen die man vergeblich [predigt]. Empfiehlt sich Bullinger und seiner Kirche und bittet um
+								deren Gebet; Grüße an <persName>Pellikan</persName>, <persName>Gwalther</persName>, <persName>Megander</persName>, <persName>Bibliander</persName> und <persName>Erasmus [Schmid]</persName>; grüßt von <persName>Nikolaus [König]</persName>.</p></p></summary>
+						<msItem>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 14, Nr. 2012, S. 464</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/12059">
+				<correspAction type="sent">
+					<persName ref="p1010" cert="high">
+						
+					</persName>
+					<placeName source="l411" cert="high"><orig>Reichenweier</orig></placeName>
+					<date when="1544-10-13" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file12060"/>
+					<ref type="prev_chronologically" target="file12058"/>
+					<ref type="next_correspondence" target="file12196"/>
+					<ref type="prev_correspondence" target="file12015"/>
+					<ref type="next_correspondence_request" target="file12196"/>
+					<ref type="prev_correspondence_request" target="file12000"/>
+					<ref type="next_correspondence_reaction" target="file12218"/>
+					<ref type="prev_correspondence_reaction" target="file12015"/>
+					<ref type="next_same_sender" target="file12196"/>
+					<ref type="prev_same_sender" target="file12000"/>
+					<ref type="next_same_addressee" target="file12062"/>
+					<ref type="prev_same_addressee" target="file12057"/>
+					<ref type="next_with_sender_as_addressee" target="file12196"/>
+					<ref type="prev_with_sender_as_addressee" target="file12000"/>
+					<ref type="next_with_addressee_as_sender" target="file12062"/>
+					<ref type="prev_with_addressee_as_sender" target="file12057"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="6">Deutsch</language>
+				<language ident="la" usage="994">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://iiif.bullinger-digital.ch/iiif/3/12059%2FAutograph%2F00%20E_II_361__fol__268_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">12059/Autograph/00 E_II_361__fol__268_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://iiif.bullinger-digital.ch/iiif/3/12059%2FAutograph%2F01%20E_II_361__fol__268_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">12059/Autograph/01 E_II_361__fol__268_v_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://iiif.bullinger-digital.ch/iiif/3/12059%2FAutograph%2F02%20E_II_361__fol__268_a_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">12059/Autograph/02 E_II_361__fol__268_a_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://iiif.bullinger-digital.ch/iiif/3/12059%2FAutograph%2F03%20E_II_361__fol__268_a_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">12059/Autograph/03 E_II_361__fol__268_a_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p><s n="1" xml:lang="la">Gratia domini tecum.</s>
+				</p><p><s n="1" xml:lang="de">Ago tibi gratias ingentes, doctissime Bullingere, pro libello tuoBullinger hatte, et si possum, maiori olim relaturus etc.Erb am 3.</s>
+				<s n="2" xml:lang="la">September 1544 sein gerade erschienenes Buch "Hoffnung der Glöubigen" in der deutschen Übersetzung vonJohannes Fries gesandt; s. obenNr.</s>
+				<s n="3" xml:lang="de">1968, 6-8.PlacetFrisii docta et familiaris versio, qua admodum diligenter piis et ecclesię Christi iisque, qui TeuthonicamJohannes Fries.Zu ergänzen: "linguam". callent, ad spem futurę glorię, quę revelabitur in nobis,Röm 8, 18. incitamentum fidei prebuit.Legent enim simplices et pietatis studiosi cum Iobo agnoscentes hanc spem certo repositam in sinu illorumHi 19, 25-27.; hac spe denique freti facilius tollerent omnium seculorum adversitates etc.Verum cum et mihi copiam feceris idem opus Latine excudendi, mitto ad te eius rei exemplarEs handelt sich hierbei wohl um, quod dispitias, obsecro.Erbs Widmungsepistel (f.</s>
+				<s n="4" xml:lang="de">2r.-5v.)</s>
+				<s n="5" xml:lang="de">und die Einleitung (f.</s>
+				<s n="6" xml:lang="la">6f) zu Bullingers Schrift "Resurrectio.</s>
+				<s n="7" xml:lang="la">De gloriosa domini nostri Iesu Christi ... resurrectione ... libellus", die 1545 vonChristoph Froschauer gedruckt wurde; s. obenNr.</s>
+				<s n="8" xml:lang="la">1953, Anm.</s>
+				<s n="9" xml:lang="la">9.Temeritatis siquidem fuerit id sine tua recognitione publicare etc.</s>
+				</p><p><s n="1" xml:lang="de">Adolescentem, cuius mentionem facis in tuis litteris,Gerold Meyer [d.J.</s>
+				<s n="2" xml:lang="la">]; s. zuletzt oben prothoscriba nosterNr.</s>
+				<s n="3" xml:lang="la">1968, 29-41., simulacOswald Fürstenlob; s. obenNr.</s>
+				<s n="4" xml:lang="de">1968, Anm.</s>
+				<s n="5" xml:lang="de">23.Voglerus ad suos concesserit, in suum famulitium facile conscribet salario procul dubio non admodum magno in tui Tigurinorumque omnium gratiam.Hans Vogler d.J., der als Schreiberlehrling beiOswald Fürstenlob bis zum 23.</s>
+				<s n="6" xml:lang="la">April 1545 tätig sein sollte; s. obenNr.</s>
+				<s n="7" xml:lang="la">1968, 36.</s>
+				</p><p><s n="1" xml:lang="la">Ecclesia nostra satis bene haberet, si novus ille oeconomusMöglicherweise, a quo tota respublica et oppidi et agri pendet, consceleratos illos nebulonesHans Henman (Amandus) Truchsess von Rheinfelden, seit 1539 Vogt (und wahrscheinlich auch Schaffner) zu Reichenweier; s.HBBW XIII[Nr.</s>
+				<s n="2" xml:lang="la">1806] 304, Anm.</s>
+				<s n="3" xml:lang="de">7.Vermutlich sind hier Kleriker der römischen Kirche gemeint.</s>
+				<s n="4" xml:lang="la">In seinem am gleichen Tag verfassten Brief an Pelikan schreibt, qui suaErb: "Impetimur enim nonnunquam a Sathana et ministris eius, qui nunc rursus - post Galli et Caesaris concordiam [der Friede vonCrépy, 18./19.</s>
+				<s n="5" xml:lang="la">September 1544] - prodeunt actum putantes de Evangelio.</s>
+				<s n="6" xml:lang="la">Minantur grandia ignorantes fortiorem nobis esse patronum quam illis etc.</s>
+				<s n="7" xml:lang="la">De Keiserspergensibus [Kaysersberg, Dép.</s>
+				<s n="8" xml:lang="la">Haut-Rhin] nobis nulla spes est resipiscentiae.</s>
+				<s n="9" xml:lang="la">Mutarunt bonum propositum et impia phalanx [die Abtei Alspach?]</s>
+				<s n="10" xml:lang="la">imperat bonis etc.</s>
+				<s n="11" xml:lang="de">Nulla superest specula revocationis Valentini [Telis / Klee ?</s>
+				<s n="12" xml:lang="la">- s. unten] etc.</s>
+				<s n="13" xml:lang="la">Monacho parum devoto [unbekannt] et calumniatori pessimo suggestum a novo commiserunt, monstrum quod pessima illa Chymaera [nicht ermittelt] hactenus aluit.</s>
+				<s n="14" xml:lang="la">Nunc libere et magno periculi eius ecclesiae in publicum protrahit.</s>
+				<s n="15" xml:lang="la">Haec Valentino Teli [unbekannt; vielleicht der ehemalige Franziskaner aus Rufach (s. obenNr.</s>
+				<s n="16" xml:lang="la">1918 mit Anm.</s>
+				<s n="17" xml:lang="de">1)?</s>
+				<s n="18" xml:lang="de">Vielleicht auch Valentin Boltz?</s>
+				<s n="19" xml:lang="la">Im Sommer 1544 hatte Letzterer mitPellikan seine Heimat Rufach besucht, woErb sie besuchte; s. Chronikon 163] significabis etc.</s>
+				<s n="20" xml:lang="la">Plurimum laboravi in eo negotio cum quibusdam bonis et prudentibus viris, sed non cessit foeliciter" (Zürich ZB, F 47, 284r.</s>
+				<s n="21" xml:lang="la">).Pellikan, turpitudine sanctam Christi disciplinam conspurcant, pro meritis multaret, et leges (quibus honestas hactenus in barbaro isto et Alsatico populo plantata) tueretur.Die öffnende Klammer wurde vonErb vergessen.Verum cum e diverso homo sit impius, durus, inexorabilis, calumniator, impudens atque, ut omnia uno verbo dicam, omnium scelerum sentina, susque deque omnia ferens, nec deum nec rempublicam recte curat, proinde principemGraf percupide expectamus, qui iam bimestri tempore in Termis lavit ferinisGeorg von Württemberg..Wildbad im Schwarzwald (Baden-Württemberg).</s>
+				<s n="22" xml:lang="de">-Am 13.</s>
+				<s n="23" xml:lang="la">August 1544 berichteteErb anPellikan: "In lectica heri abiit [GrafGeorg] in Tennis ferinis loturus rediensque occasione qualicunque" (Zürich ZB, F 47, 283r.</s>
+				<s n="24" xml:lang="la">).Is forte, cum redierit, hypocritam e suo statu deiiciet; sinsin minus, conclamatum erit et de religione et de bona disciplina.korrigiert aus sint.</s>
+				</p><p><s n="1" xml:lang="la">Omnem ergo movebimus lapidemVgl.</s>
+				<s n="2" xml:lang="la">Adagia, 1, 4, 30 (, ne ea, quę magno laboreASD II/1 429f,Nr.</s>
+				<s n="3" xml:lang="la">330).Erasmus vester et ego pro virili, atque ut potui, in hac ecclesia numinis opitulatione edificavimus, corruant, neque cedam satanę - confortante me domino, sine cuius benigno auxilioErasmus Schmid (Fabricius).auxilio nullus sum - neque satellitibus eius, dum vel vi, quod absit, me eiiciant, vel melior, qui plus quam ego hanc Spartam tueaturüber der Zeile nachgetragen.Zur Redewendung vgl., succedat.Otto 329, Nr.</s>
+				<s n="4" xml:lang="la">1679; Adagia, 2, 5, 1 (ASD II/3 397-406, Nr.</s>
+				<s n="5" xml:lang="la">1401).Quod si mihi silicernioDiesen Ausdruck verwendete migrandum fuerit, antiquam meam patriamErb schon in seinem Brief an Bullinger vom 24.</s>
+				<s n="6" xml:lang="la">Oktober [1543]; vgl.HBBW XIII 306, 45.Erb war zur Zeit der Abfassung des vorliegenden Briefs etwa 50 Jahre alt.HelvetiamHelvetiam,über der Zeile nachgetragen.Wohl ein Bezug auf Erbs fast zehnjährige Pfarrertätigkeit (spätestens 1528 bis Juni 1536) in nisi me dominus aliis adpulerit orisEntfelden (Kt.</s>
+				<s n="7" xml:lang="la">Aargau).</s>
+				<s n="8" xml:lang="la">- Erb stammte ausEttlingen (Landkreis Karlsruhe,Baden-Württemberg) und hatte inBaden-Baden,Pforzheim undTübingen studiert; s. Beat RudolfJenny, Bullingers Briefwechsel mit dem Elsässer ReformatorMatthias Erb (1539-1571), in:HBGesA II 64-78.adpulerit oris: dichterisch; vgl.</s>
+				<s n="9" xml:lang="la">z.B.</s>
+				<s n="10" xml:lang="la">Vergil, Aeneis, 1, 375.</s>
+				<s n="11" xml:lang="la">3, 338, u.a.</s>
+				<s n="12" xml:lang="de">; Ovid, Fasti, 3, 621., repetam.Haec generatim de perversis impiorum ingeniis; nam singula in spetie persequi longum fuerit.Die kere ist jetz an uns post tenebras speramus lucemwir sind jetzt an der Reihe; s.;Grimm XI 402.</s>
+				<s n="13" xml:lang="la">-Mögliche Anspielung auf 1 Petr 4, 17.Vgl.</s>
+				<s n="14" xml:lang="la">Hi 17, 12 (Vulg.</s>
+				<s n="15" xml:lang="la">). etc.Tu interim cum fratribus et ecclesia vestra orate dominum enixissime, qui nos in hanc tentationem inducit, ne vincamur a maloVgl.</s>
+				<s n="16" xml:lang="la">Mt 6, 13; Rm 12, 21..</s>
+				</p><p><s n="1" xml:lang="de">Multę insidię, multa perversa ingenia, non pauci falsi fratres exWirtenberga,SchnepfianiD.h.</s>
+				<s n="2" xml:lang="la">entschiedene Anhänger maxime et novatores et cęremoniastęLuthers, so genannt in Bezug auf den inWürttemberg wirkenden strengen LutheranerErhard Schnepf.</s>
+				<s n="3" xml:lang="de">-Erb denkt hier vermutlich u.a.</s>
+				<s n="4" xml:lang="de">an den strengen Lutheraner Johann es)Engelmann; s. obenNr.</s>
+				<s n="5" xml:lang="la">2004, Anm.</s>
+				<s n="6" xml:lang="de">8.Die Bezeichnung "novatores et caeremoniastae" für die strengen Lutheraner gebraucht, nos impetunt nonErb auch in einem Brief an Bullinger vom 11.</s>
+				<s n="7" xml:lang="la">August 1561, Zürich StA, E II 361, 212, zitiert in JohannAdam, Evangelische Kirchengeschichte der elsässischen Territorien bis zur Französischen Revolution, Straßburg 1928, S.</s>
+				<s n="8" xml:lang="la">314.</s>
+				<s n="9" xml:lang="de">Vgl.</s>
+				<s n="10" xml:lang="de">auch den Brief des inColmar ansässigen AugustinersJohann Hofmeister anErb vom 13.</s>
+				<s n="11" xml:lang="la">März 1543, in dem Hofmeister sich freut, dass die Protestanten im Begriff sind, die Messe wieder einzuführen; s. Timotheus WilhelmRöhrich, Mittheilungen aus der Geschichte der evangelischen Kirche des Elsasses, Bd.</s>
+				<s n="12" xml:lang="la">III.</s>
+				<s n="13" xml:lang="de">Straßburg-Paris 1855, S.</s>
+				<s n="14" xml:lang="de">281f.non minus quam hactenus ecclesiam Mombelgardianambis Mombelgardianamam Rande nachgetragen.nonbis Mombelgardianamam Rande nachgetragen.Mömpelgard (; quot capita, tot sententięMontbéliard).</s>
+				<s n="15" xml:lang="la">- Zur Sache s. JohnViénot, Histoire de la réforme dans le pays deMontbéliard, Bd.</s>
+				<s n="16" xml:lang="la">1, Paris 1900, S.</s>
+				<s n="17" xml:lang="de">105-116; FranzBrendle, Die 'Einführung' der Reformation in Mömpelgard,Horburg und Reichenweier zwischen Landesherrn, Theologen und Untertanen, in:Württemberg und Mömpelgard.</s>
+				<s n="18" xml:lang="de">600 Jahre Begegnung, hg.</s>
+				<s n="19" xml:lang="de">v. Sönke Lorenz und Peter Rückert, Leinfelden-Echterdingen 1999.</s>
+				<s n="20" xml:lang="la">- Schriften zur südwestdeutschen Landeskunde 26, S.</s>
+				<s n="21" xml:lang="la">154-158.Vgl.</s>
+				<s n="22" xml:lang="de">Adagia, 1, 3, 7 (.ASD II/1 319f,Nr.</s>
+				<s n="23" xml:lang="la">207).Verum solidum dei verbum purumque domini eloquium propediem illorum stultitiam prodet.Huic basi, quotquot nostrum sunt in isto agro, innitimur; sine illo cortice in pelago huius mundiin pelago huius mundi: Paulinus Nolanus, Epistulae, 49, 5 ( non namusCSEL XXIX 395, 3); Caesarius von Aries (Arelatensis), Sermones, 64, 2 (CChr-L CIII 276), und passim.sine ... cortice ... namus: Adagia, 1, 8, 42 (.ASD II/2 262,Nr.</s>
+				<s n="24" xml:lang="la">742).Haec raptim de rebus nostris, alias, dum vacarit, plura.</s>
+				</p><p><s n="1" xml:lang="la">Occupamur vindemia, quę apud nos perparce provenit; nec mirum, cum dei benefitia adeo ingrate profundantur.In huiusmodi perlurconeslurco: der Schlemmer, der Vielfraß. clamamus ad rauzim usqueclamamus ad rauzim usque: Schreien wir uns heiser; s. Neues und ausführliches Dictionarium oder Wörter-Buch in dreyen Sprachen, Genf 1718, S.</s>
+				<s n="2" xml:lang="de">165 s.v.</s>
+				<s n="3" xml:lang="la">"sich heiser schreyen". parum proficientes.In rerum omnium caritate nulla frugalitas, sed maior luxus; unde impoenitentibus nil aliud quam graviorem domini manum expectandam videmus.</s>
+				</p><p><s n="1" xml:lang="la">Bene vale, vir in Christo sanctissime, nosque deo et filio eius Iesu Christo tuis precibus et ecclesię tuę commenda, ut ipse in nobis, non propter nos, sed ob nominis sui gloriam, ab adversariis triumphet.Salutabis meo nomine omnes tuos verbi dei collaboratores,Pellicanum in primis,Gwaltherum,Megandrum,Bibliandrum et meumErasmumErasmus Fabricius (, et quotquot nobis in ChristoSchmid). iuncti sunt.Salutat te etNicolaus Regius et omnes ecclesię nostrę antistites.Nikolaus König.Raptim, Richenvillę, 13. octobris.</s>
+				</p><p><s n="1" xml:lang="la">Tibi deditissimusMatthias.<lb/> Erbius</s>
+				</p><p><s n="1" xml:lang="la">[Adresse auf der Rückseite:]Viro pietate simul et eruditione eximio d. Henricho Bullingero, ecclesiastae Tigurino, patrono suo percharo.</s>
+				</p></div>
+		</body>
+	</text>
+</TEI>

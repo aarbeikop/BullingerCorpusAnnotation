@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:id="file10699" type="Brief" source="HBBW-5" n="661">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Martin Frecht / Ulm an Heinrich Bullinger, 14. Oktober 1535</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl n="7" type="transcription">Heinrich Bullinger Werke, Briefwechsel Band 5 (Briefe des Jahres 1535), bearb. von Hans Ulrich Bächtold, Rainer Henrich und Kurt Jakob Rüetschi, Zürich 1992, 507 S., ISBN 3-290-10856-2.</bibl>
+				<bibl n="7" type="regest">Heinrich Bullinger Werke, Briefwechsel Band 5 (Briefe des Jahres 1535), bearb. von Hans Ulrich Bächtold, Rainer Henrich und Kurt Jakob Rüetschi, Zürich 1992, 507 S., ISBN 3-290-10856-2.</bibl>
+				<bibl n="7" type="footnotes">Heinrich Bullinger Werke, Briefwechsel Band 5 (Briefe des Jahres 1535), bearb. von Hans Ulrich Bächtold, Rainer Henrich und Kurt Jakob Rüetschi, Zürich 1992, 507 S., ISBN 3-290-10856-2.</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 343,107</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p><p><persName>[Hans] Pflaum</persName>, dessen Frau unterwegs ist, um ihn [nach
+								<placeName>Ulm</placeName>] zurückzuholen, ausführlich an
+								<persName ref="p2305">Leo Jud</persName> geschrieben. Die Mängel der Kirchen werden von den
+								[Spiritualisten] überbetont; einer von ihnen, der in <placeName>Ulm</placeName>
+								eingebürgerte <persName>Sebastian Franck</persName>, hat dem Rat nach dem Erscheinen seiner
+								"Paradoxa" ein Rechtfertigungsschreiben vorgelegt, das an <persName>[Hans] Denck</persName> und <persName>[Ludwig] Hätzer</persName> erinnert. Mit <persName>Kaspar Schwenckfeld</persName>, der jetzt im Haus des Bürgermeisters
+								[<persName>Bernhard Besserer</persName>] lebt, hat
+								<persName ref="p5074">Frecht</persName> gemeinsam mit <persName ref="p18198">Bucer</persName> und
+								<persName>[Ambrosius] Blarer</persName> in
+								<placeName>Tübingen</placeName> eine Übereinkunft getroffen; gegenüber <persName>Franck</persName>, der die
+								Kirche mehr als <persName>Schwenckfeld</persName> beschwert, hat er sich nie nachgiebig
+								gezeigt.</p></p></summary>
+						<msItem>
+							<textLang>el</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>Füssli I 166-170, Nr. 49</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Teildruck">
+								<title>Johann Heinrich Ott, Annales anabaptistici, Basel 1672, S. 81f</title>
+							</bibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 5, Nr. 661, S. 389</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/10699">
+				<correspAction type="sent">
+					<persName ref="p1055" cert="high">
+						
+					</persName>
+					<placeName source="l513" cert="high"><orig>Ulm</orig></placeName>
+					<date when="1535-10-14" cert="high"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file10700"/>
+					<ref type="prev_chronologically" target="file10698"/>
+					<ref type="next_correspondence" target="file11181"/>
+					<ref type="prev_correspondence" target="file10126"/>
+					<ref type="next_correspondence_request" target="file11192"/>
+					<ref type="prev_correspondence_request" target="file10126"/>
+					<ref type="next_correspondence_reaction" target="file11181"/>
+					<ref type="next_same_sender" target="file11192"/>
+					<ref type="prev_same_sender" target="file10126"/>
+					<ref type="next_same_addressee" target="file10700"/>
+					<ref type="prev_same_addressee" target="file10694"/>
+					<ref type="next_with_sender_as_addressee" target="file11192"/>
+					<ref type="prev_with_sender_as_addressee" target="file10126"/>
+					<ref type="next_with_addressee_as_sender" target="file10700"/>
+					<ref type="prev_with_addressee_as_sender" target="file10694"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="el" usage="2">Griechisch</language>
+				<language ident="la" usage="998">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://iiif.bullinger-digital.ch/iiif/3/10699%2FAutograph%2F00%20E_II_343__fol__107_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">10699/Autograph/00 E_II_343__fol__107_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://iiif.bullinger-digital.ch/iiif/3/10699%2FAutograph%2F01%20E_II_343__fol__107_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">10699/Autograph/01 E_II_343__fol__107_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p><s n="1" xml:lang="la">Salutem in domino, Bullingere doctissime.</s>
+				</p><p><s n="1" xml:lang="la">Quid ni vero boni consulerem non ineptas et extortas illas tuas, sed vere aptas et pro charitatis iure sponte scriptas in Pflumii caussa literasHans Pflaum ausUlm, ein als etwas geistesschwach beschriebener junger Mann, hatte sich seinen Vormündern entzogen und in Zürich bei einem Wirt verdingt.</s>
+				<s n="2" xml:lang="de">Vgl.</s>
+				<s n="3" xml:lang="la">die diesbezügliche Korrespondenz zwischenUlm und Zürich in Zürich StA, A 202.</s>
+				<s n="4" xml:lang="la">6, Nr.</s>
+				<s n="5" xml:lang="la">6; B IV 6, f.</s>
+				<s n="6" xml:lang="la">99r.-v.</s>
+				<s n="7" xml:lang="la">140r.-v.Nicht erhalten.?Quibus, utinam pro tuis votis, respondero inprimisque excusavero me probe de illo meo diutino silentio, quo velim non putes ut ethnicorum dirimi amicitiasVgl.</s>
+				<s n="8" xml:lang="la">Adagia, 2, 1,26 (, sed magis ut christianorum in domino coire.LB II 415f).Neque enim mea in te observantia et charitas tam infirma est, ut ea papyraceis subinde ęgeat testibus.Multo itaque rectius mihi quam tibi et huius epistolę initium et finis isto sermone ornandus erit: "Licet scribam rarius, Bullingerus tamen animo meo commendatissimus est."</s>
+				</p><p><s n="1" xml:lang="la">Sed ad Pflumii causam, optime Bullingere, quid tibi respondeam, non adeo in promptu habeo.Satis solide pieque illi, quod scribis, conatus es reditum persuadere.Iam ipsa uxor cum tabellioneDie Namen beider sind nicht bekannt., cognato suo, iter ingressa tam difficile certe et incommodum venit ad vos non tam orator vehemens quam suo iuditio etiam foelix exorator.Repetet maritum ad alendam familiam multo aptiorem quam ad perdiscendas literas, quas, cum adhuc puer esset, pro sua simplicitate facile capere non potuit.Verum optimo viroLeoni Iud de Pflumii rebus scripsi fusius quam tibiDer Brief von.Martin Frecht anLeo Jud ist nicht erhalten.</s>
+				</p><p><s n="1" xml:lang="la">Quod vero ad nostras attinet ecclesias, quarum te quoque curam gerere non dubito, sic se habent omnia, ut semper meliora optarem, tametsi dominus sua bonitate efficiat, ut magistratus animi in tuenda et propaganda recepta religione haudquaquam remittantur.Auditores autem, proh dolor, ut audio hoc malum passim commune ingravescere, plures quam factores verbi sunt.Hoc autem exaggerare solent, qui subtilioribus anabaptistis favent, quales sunt Schlesitici et Francici spiritusGemeint sind die spiritualistischen Kreise um, qui scribunt et in angulis mussitant multa de verbo externo et interno, de litera, spiritu, et horum ministris, qui palam docent scripturam non esse verbum dei, in omnium mentibus verbum internum latere, quod externi duntaxat verbi testimonio in liquidum veniat, aliud ministerii, vocationis, oeconomię ecclesiasticę genus expectantes.Kaspar Schwenckfeld (ausSchlesien) undSebastian Franck.Huius farinęvon diesem Schlag, vgl. videtur esseAdagia, 3, 5, 44 (LB II 839).Sebastianus Francus, chronicorum et paradoxorum autor, quem ante biennium fere nostri receperunt invor bienniumgestrichenes sem. hanc urbem, deindevon inbis deindeam Rande nachgetragen. in civem magis imprudenter quam pievon inbis deindeam Rande nachgetragen.Zu.Sebastian Franck vgl.HBBW IV[Nr.</s>
+				<s n="2" xml:lang="la">313], S.</s>
+				<s n="3" xml:lang="la">36, Anm.</s>
+				<s n="4" xml:lang="la">17.Hic cum in hac urbe insciis scholarum praesidibus, edendorum voluminum censoribus, illud mirabile Paradoxorum suorum contextum ędidissetFrancks "Paradoxa ducenta octoginta" erschienen 1534 in, senatui delatus obtulit se ad declarationem eorum articulorum, qui a se obscure aut parum pie scripti essentUlm, s. ChristophDejung,Sebastian Franck, in: Bibliotheca Dissidentium.</s>
+				<s n="5" xml:lang="la">Répertoire des nonconformistes religieux des seizième et dixseptième siècles, édité par André Séguenny, t. VII, Baden-Baden 1986.</s>
+				<s n="6" xml:lang="la">- Bibliotheca Bibliographica Aureliana CVI, S.</s>
+				<s n="7" xml:lang="la">79-82, Nr.</s>
+				<s n="8" xml:lang="de">11.Am 3.</s>
+				<s n="9" xml:lang="la">September übergab.Franck demUlmer Rat seine "Gruntliche anweisung, erleuterung und declaration", s.Dejung, aaO, S.</s>
+				<s n="10" xml:lang="de">92, Nr.1.Huius fabulę cum eo institutę hisce diebus protasin vidi, indies autem catastrophen expectoMit protasis und catastrophe werden Ein- bzw.</s>
+				<s n="11" xml:lang="de">Ausgang eines Dramas bezeichnet..Obtulit is quidem declarationem, sed eam, quę meo iuditio alia indigeat, tam est nunc obscurus, nunc vero lubricus in expositione verbi externi et interni.Non ignoras, ut olim cum verbo externo luserintDenckiusHans Den(c)k, um 1500-1527, von etHabach (Oberbayern), studierte ab 1517 inIngolstadt und arbeitete danach u. a. als Korrektor in Basel, bevor er 1523 auf Empfehlung Oekolampads Rektor der Sebaldusschule in Nürnberg wurde.</s>
+				<s n="12" xml:lang="de">Da er sich den Anschauungen Karlstadts und Müntzers angenähert hatte, wurde er 1525 ausgewiesen.</s>
+				<s n="13" xml:lang="de">Nach kurzen Aufenthalten u. a. in Schwyz und St.</s>
+				<s n="14" xml:lang="de">Gallen gelangte er nach Augsburg, wo er 1526 von Balthasar Hubmaier getauft worden sein soll.</s>
+				<s n="15" xml:lang="de">Doch weder hier noch in Straßburg oder Worms konnte er sich länger halten.</s>
+				<s n="16" xml:lang="de">In Worms veröffentlichte er zusammen mitLudwig Hätzer eine Übersetzung der Propheten.</s>
+				<s n="17" xml:lang="de">Kurz nachdem er unter dem Einfluß Oekolampads seine täuferischen und spiritualistischen Überzeugungen teilweise widerrufen hatte, starb er in Basel an der Pest.</s>
+				<s n="18" xml:lang="la">Bullinger bezeichnet ihn als einen "Rab[b]i under den Töuffern", s. Der Wiedertäufer Ursprung (HBBibl I 394-401), Neudruck Leipzig 1975, f.</s>
+				<s n="19" xml:lang="la">14v.</s>
+				<s n="20" xml:lang="de">- Lit.</s>
+				<s n="21" xml:lang="la">: Werner O.Packull, in:TRE VIII 488-490 (mit weiterer Lit.</s>
+				<s n="22" xml:lang="la">); RobertStupperich, in:NDB III 599f.Hätzerus; iurares eos inLudwig Hätzer.Franco et suis complicibus revixisse.Neque te latet, ut Lutherani in illa atroci pugna sacramentaria velitati fuerint cum verbo externo, quod mea opinione in ministerio nolunt esse a verbo interno separandum idque pie.</s>
+				</p><p><s n="1" xml:lang="la">Preter huncFrancum nunc hospitem hic habemus in domo consulis nostri diversantemBernhard Besserer, vgl.CSch V 404.Chasparem illum Schwenckfeldium, quicum nuperBucerus etBlaurerus noster et ego concordiamnach nostergestrichenes mecum.Tubingę iniivimusZum Religionsgespräch vom 28.</s>
+				<s n="2" xml:lang="la">Mai 1535 in.Tübingen s. obenNr.</s>
+				<s n="3" xml:lang="la">622, Anm.</s>
+				<s n="4" xml:lang="la">31.Condordię leges hęe sunt, utSchwenckfeldius ministerium totum ecclesiarum nostrarum non dissipet nosque huius eum non accusemus, imo ipse velit diligenter adesse nobis, ut populus ad id conspiret, ut studio verę poenitentię et fidutia Christi se in domino coniungat.Non dubito vero, quin de ista concordia e fratribusArgentinensibus quid rescierisIn den erhaltenen Briefen von, ut modo opus non sit de ea latius tecum commentari.Bucer undCapito an Bullinger findet sich keine Nachricht darüber.Volui autem ista deFranco plus nostrę ecclesię incommodante quamSchwenckfeldius scribere, ut et tu nos hic quandoque per literas moneresEine Antwort Bullingers ist nicht bekannt. eorum, quę putaris monenda esse.Sunt, qui suspicentur de nobis, quasi nos indulgenter huiusmodi heretica ingenia tractare et fovere quamάποτόμως iuxta Pauli monitain der Vorlageἀποτῶς.Vgl.</s>
+				<s n="5" xml:lang="la">Tit 1, 13. arguere malimus.Sed falluntur isti; nunquam enim nos consuluimus, ut in urbem iste novator reciperetur.At suos iste patronos habuit, quibus mira sua chrestologia imposuit, et vereor, ne in hunc diem imponat eis.Tu dominum ora, ut nostram ecclesiam liberet a variis istis ingenus ad destruendum quam ędificandum magis propendentibus.At de iis et aliis quandoque diligentius ad te perscribam.</s>
+				</p><p><s n="1" xml:lang="la">Vale cum symmystis omnibus, quos meo et confratrum nomine salvos dicas, inprimis venerandum illumPellicanum etBibliandrum, vere, quod dicitur, virum eruditum.</s>
+				</p><p><s n="1" xml:lang="la">Raptim,Ulmę, 14. octobris 1535.</s>
+				</p><p><s n="1" xml:lang="la">TuusMartinus.<lb/> Frechtus</s>
+				</p><p><s n="1" xml:lang="la">[Adresse auf der Rückseite:]Eximio pietate et doctrina d. Heinrycho Bullingero, Tigurinę ecclesię vigilantissimo episcopo, fratri suo charissimo.</s>
+				</p></div>
+		</body>
+	</text>
+</TEI>

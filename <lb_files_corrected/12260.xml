@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xml:id="file12260" type="Brief" source="HBBW-15" n="2213">
+	<teiHeader xml:lang="de">
+		<fileDesc>
+			<titleStmt>
+				<title subtype="file">Matthias Erb / Reichenweier an Heinrich Bullinger, 11. August [1545]</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Volk et al.</publisher>
+				<pubPlace>Zürich</pubPlace>
+				<address>
+					<addrLine>Institut für Computerlinguistik</addrLine>
+					<addrLine>Andreasstrasse 15</addrLine>
+					<addrLine>8050 Zürich</addrLine>
+					<addrLine>Schweiz</addrLine>
+				</address>
+				<authority>Universität Zürich</authority>
+				<idno subtype="url">https://www.bullinger-digital.ch/</idno>
+				<date when="2024"/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl n="18" type="transcription">Heinrich Bullinger Werke, Briefwechsel Band 15 (Briefe des Jahres 1545), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2013, 746 S., ISBN 978-3-290-17664-8.</bibl>
+				<bibl n="18" type="regest">Heinrich Bullinger Werke, Briefwechsel Band 15 (Briefe des Jahres 1545), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2013, 746 S., ISBN 978-3-290-17664-8.</bibl>
+				<bibl n="18" type="footnotes">Heinrich Bullinger Werke, Briefwechsel Band 15 (Briefe des Jahres 1545), bearb. von Reinhard Bodenmann, Alexandra Kess und Judith Steiniger, Zürich 2013, 746 S., ISBN 978-3-290-17664-8.</bibl>
+				<bibl type="scan">Zürich StA</bibl>
+				<msDesc type="Brief" subtype="Autograph" xml:lang="la">
+					<msIdentifier>
+						
+						<repository ref="a94"/>
+						<idno subtype="Autograph">E II 361,257–257a</idno>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p><p><persName ref="p7512">Erb</persName> sich am Morgen des Vortags zum Kanzler [<persName>Sigismund Stier</persName>] begab, erhielt er vor dem Hoftor von
+								Bullingers Boten [<persName>Markus Wüst</persName>] den Brief [<ref target="file12256">Nr. 2209</ref>]. Als er ihn gelesen hatte,
+								war er bestürzt. Während der Verhandlungen mit dem Kanzler dachte er immer wieder daran. Beim Mittagessen
+								fragte er den Boten weiter aus und plante sogleich eine Antwort. Da kündigte ein gerade eingetroffener Brief
+								des [Grafen <persName>Georg von Württemberg</persName>] dessen baldige Rückkehr vom
+								[<placeName>Wormser</placeName>] Reichstag an. <persName ref="p7512">Erb</persName> wurde darin mit einer Reihe von
+								Pflichten beauftragt, so dass er erst einen Tag später antworten kann. - Als Fünfzigjähriger wünscht er sich
+								ein ruhigeres Leben, doch trotz seiner Bestrebungen wird ihm das nicht zuteil. - Seine wiederholten
+								Versuche, einen Kollegen anzustellen, der ihm bei der für ihn zu schwer gewordenen Aufgabe helfen könnte,
+								blieben erfolglos, denn alle winken aus Furcht ab. - Ferner verwaltet [<persName>Hans Henman</persName>] die Finanzen schlecht.
+								Innert fünf Jahren hat <persName ref="p7512">Erb</persName> aus eigenem Vermögen 200 Gulden für die Kirche ausgeben müssen, wobei er sich
+								nicht über den dadurch entstandenen Verlust beschweren will, sondern über die diebischen Harpyien, die keine
+								Ermahnung dulden und schuld sind, dass die Kirche als geizig verschrien ist. Solange es etwas zu entwenden
+								gibt, ist ihnen Christus lieb, aber nicht mehr dann, wenn die Kirche nicht für die Kosten aufkommen kann!
+								Bis vor kurzem hatte er [zwei Kollegen] in [Reichenweier], nun muss <persName ref="p7512">Erb</persName> allen Aufgaben allein nachkommen und
+								erhält zudem nur mit Mühe seinen Lohn. In solch einer verzwickten Lage kann er sich nicht vorstellen,
+								[seine] Kirche zu verlassen. - Seit [1538] hat er diese, so gut es ging, in Ordnung gebracht. Nun muss das
+								begonnene Werk vollendet werden, [umso mehr, als] das benachbarte Mömpelgart mit seinem [Grafen <persName ref="p5703">Christoph von Württemberg]</persName> immer noch im Wanken ist. Außerdem befinden sich in der kleinen, von Landwirtschaft
+								geprägten [Grafschaft <placeName>Horburg</placeName> und Herrschaft Reichenweier] vier
+								Schulen; eine fünfte ist geplant, so auch die Einrichtung eines Stipendiums. Würde <persName ref="p7512">Erb</persName> nun gehen, wäre alles
+								gefährdet. Zudem könnte der dadurch verärgerte, schwierige [Graf] seine Meinung ändern. <persName ref="p7512">Erb</persName> muss also eine
+								bessere Gelegenheit abwarten. - Er ist Bullinger dennoch zutiefst dankbar, und dieser ist ihm durch die ihm
+								erwiesene Fürsorge nur noch lieber geworden. Gott wird Bullinger bestimmt helfen, einen guten Pfarrer für
+								<placeName>Augsburg</placeName> zu gewinnen. Möge auch <persName ref="p7512">Erb</persName> [aus dieser verzwickten Lage]
+								befreit werden, oder zumindest unter der Last nicht zusammenbrechen! <persName ref="p7512">Erb</persName> bittet Bullinger allerdings,
+								künftig nicht solch eine hohe Meinung von ihm zu hegen, denn er ist sich ja, wie er meint, seiner Grenzen
+								mehr als Bullinger bewusst. - Gott möge <persName ref="p7512">Erb</persName> eine solche Gelegenheit wieder schenken! Bullinger soll der
+								Obrigkeit von <placeName>Augsburg</placeName> und besonders <persName>Georg Frölich</persName> <persName ref="p7512">Erbs</persName> Dank für
+								diese ehrenhafte Berufung aussprechen. Die <placeName>Augsburger</placeName> sind <persName ref="p7512">Erb</persName>
+								dadurch lieb geworden. Er wünscht ihnen Eintracht wie auch Erfolg bei der Suche nach einem geeigneten
+								Antistes; doch auf ihn sollen sie nicht warten. - [Beilage:] Neuigkeiten: Der Reichstag [zu
+								<placeName>Worms</placeName>] wurde ergebnislos aufgelöst. Den [Protestanten] ist der
+								Frieden nur bis Ende des kommenden Winters zugesichert. Der Reichsabschied wurde noch nicht veröffentlicht.
+								[<persName>Karl V.</persName>] soll befugt worden sein, unter gewissen Bedingungen über den Religionshandel zu entscheiden. -
+								<persName>[König] Ferdinand [I.]</persName> verließ [<placeName>Worms</placeName>] zusammen mit <persName>[Friedrich] Nausea</persName> in Richtung <placeName>Böhmen</placeName>. Eine Woche später zog auch [<persName>Karl V.</persName>]
+								ab. Für Oktober wurde ein Reichstag in <placeName>Regensburg</placeName> ausgeschrieben.
+								- Manche befürworten ein nationales<pb type="edition" next="438"/> Konzil in <placeName>Metz</placeName>. [<persName>Claude I.</persName>] von Guise, der
+								[Onkel] des verstorbenen Herzogs [François I.] von <placeName>Lothringen</placeName>,
+								versucht, mit Hilfe von <persName>[König Franz I.]</persName> seinen [Groß]neffen [<persName>Karl III. von Lothringen</persName>] aus
+								[<placeName>Lothringen</placeName>] zu vertreiben. <persName>Kaiser [Karl V.]</persName> verspricht aber dem
+								jungen [<persName>Karl III.</persName>] Hilfe und spanische Truppen. Dies könnte zu einem neuen Krieg mit
+								<placeName>Frankreich</placeName> führen. - <persName ref="p7512">Erb</persName> lässt Bullingers Familie, <persName>[Kaspar] Megander</persName>, <persName>Erasmus [Schmid]</persName>, <persName>[Konrad] Pellikan</persName>, <persName>[Rudolf] Gwalther</persName> und alle anderen grüßen.</p></p></summary>
+						<msItem>
+							<textLang>de</textLang>
+						</msItem>
+					</msContents>
+					<additional>
+						<listBibl>
+							<bibl type="Gedruckt" subtype="Gedruckt">
+								<title>HBBW 15, Nr. 2213, S. 438</title>
+							</bibl>
+						</listBibl>
+					</additional>
+				</msDesc>
+				<msDesc type="Beilage" subtype="Beilage" xml:lang="la">
+					<msIdentifier>
+						
+						<repository ref="a94"/>
+						<idno subtype="Beilage">E II 361,258</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<correspDesc ref="https://www.bullinger-digital.ch/letter/12260">
+				<correspAction type="sent">
+					<persName ref="p1010" cert="high">
+						
+					</persName>
+					<placeName source="l411" cert="high"><orig>Reichenweier</orig></placeName>
+					<date when="1545-08-11" cert="low"/>
+				</correspAction>
+				<correspAction type="received">
+					<persName ref="p495" cert="high">
+						
+					</persName>
+				</correspAction>
+				<correspContext>
+					<ref type="next_chronologically" target="file12261"/>
+					<ref type="prev_chronologically" target="file12259"/>
+					<ref type="next_correspondence" target="file12322"/>
+					<ref type="prev_correspondence" target="file12256"/>
+					<ref type="next_correspondence_request" target="file12330"/>
+					<ref type="prev_correspondence_request" target="file12196"/>
+					<ref type="next_correspondence_reaction" target="file12322"/>
+					<ref type="prev_correspondence_reaction" target="file12256"/>
+					<ref type="next_same_sender" target="file12330"/>
+					<ref type="prev_same_sender" target="file12196"/>
+					<ref type="next_same_addressee" target="file12273"/>
+					<ref type="prev_same_addressee" target="file12257"/>
+					<ref type="next_with_sender_as_addressee" target="file12330"/>
+					<ref type="prev_with_sender_as_addressee" target="file12196"/>
+					<ref type="next_with_addressee_as_sender" target="file12273"/>
+					<ref type="prev_with_addressee_as_sender" target="file12257"/>
+				</correspContext>
+			</correspDesc>
+			<langUsage>
+				<language ident="de" usage="1">Deutsch</language>
+				<language ident="la" usage="999">Latein</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc status="abgeschlossen">
+			<change>setup/validation</change>
+		</revisionDesc>
+	</teiHeader>
+	<facsimile>
+		<surface>
+			<graphic xml:id="img1-0" url="https://iiif.bullinger-digital.ch/iiif/3/12260%2FAutograph%2F00%20E_II_361__fol__257_r_.tif/full/max/0/default.jpg" n="1"><desc subtype="path">12260/Autograph/00 E_II_361__fol__257_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img2-0" url="https://iiif.bullinger-digital.ch/iiif/3/12260%2FAutograph%2F01%20E_II_361__fol__257_v_.tif/full/max/0/default.jpg" n="2"><desc subtype="path">12260/Autograph/01 E_II_361__fol__257_v_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img3-0" url="https://iiif.bullinger-digital.ch/iiif/3/12260%2FAutograph%2F02%20E_II_361__fol__257_a_r_.tif/full/max/0/default.jpg" n="3"><desc subtype="path">12260/Autograph/02 E_II_361__fol__257_a_r_.tif</desc></graphic>
+		</surface>
+		<surface>
+			<graphic xml:id="img4-0" url="https://iiif.bullinger-digital.ch/iiif/3/12260%2FAutograph%2F03%20E_II_361__fol__257_a_v_.tif/full/max/0/default.jpg" n="4"><desc subtype="path">12260/Autograph/03 E_II_361__fol__257_a_v_.tif</desc></graphic>
+		</surface>
+	</facsimile>
+	<text xml:lang="la">
+		<body>
+			<div xml:id="div1" corresp="regest1">
+				<p><s n="1" xml:lang="de">Gratia domini tecum.Quum decima augustiAn einem Montag, dem Vortag (s. Z.</s>
+				<s n="2" xml:lang="de">17f) des Datums dieses Briefes. e suggestu descendissem me actutum a templo ad aulam conferens (vocatus scilicet a cancellario ob quędam negotia ecclesię componenda)Sigismund Stier., venit hic tuus legatusKlammern ergänzt. hora ferme nona et, dum in angiportu sisto gradum, servumMarkus Wüst; s. obenNr.</s>
+				<s n="3" xml:lang="de">2209, Anm.</s>
+				<s n="4" xml:lang="de">b.Unbekannt. ad limina deErbio rogat, me vero oculis ostiario significante ne proderet, statim digito demonstrat dicens: „Hic est.“Is ergo ad me veniens percunctatur, an mihi sit nomenErbio.Aio.Statimque litterasOben depromens dicebat a te missas.Nr.</s>
+				<s n="5" xml:lang="de">2209.Acceptas legi simul obstupescens tuam, qui alias occupatissimus es, sedulitatem in describendis ex autographo copiisVgl.</s>
+				<s n="6" xml:lang="de">oben.Nr.</s>
+				<s n="7" xml:lang="de">2209, 15-19.Stans ergo attonitus et propemodum exanimis iussi adolescentem expectare, dum redeam, atque subinde inter tractatus et varias dissidentium quęstiones et tacite et indesinenter volvo ac revolvo intime, quę scripseras.Absolutus a strepitu aulico eo cum adolescente pransum interque epulandum de singulis rebus percunctor, statim scilicet a mensa tibi responsurus.Dum id meditor, alius adest nuntiusUnbekannt. litteras ferens a principe, in quibus multa mihi committuntur negotia principemque a comitiisGraf Georg von Württemberg-Mömpelgard, der sich laut Z.</s>
+				<s n="8" xml:lang="la">16 damals inWorms aufhielt.</s>
+				<s n="9" xml:lang="la">Seine Teilnahme amWormser Reichstag ist in RTA JR XVIII-2 nicht belegt.Der Reichstag in propediem rediturum pollicentesWorms.pollicentes.über der Zeile nachgetragen.Hinc eo die, tametsi adolescens crebro urgeret abituriensabituriens, nil scripsi omnia in posterum, hoc est in hodiernum, reiiciens diem.über gestrichenem adseveransnachgetragen.Haec de pueri tui diligentia.</s>
+				</p><p><s n="1" xml:lang="la">Quod vero ad negotium adtinet, paucis haec accipe.Fateor me iam annum quinquagesimum egressum, et qui nunc in ea aetate sum, quę sedatior esse cupit, sepicule curas aulicas, quibus distringor,Erb war 1494 geboren. depręcatum, sed parum promovisse; imo, quo plus me expedire cupio, eo amplius perstringor dispendio et vitae et rerum.Sic deo optimo maximo visum est.</s>
+				</p><p><s n="1" xml:lang="la">Quod ad vitam, ut omnia manifestius depingam, subit tarda senectus, quę difficilis incipit esse, sola non suffitiens laboribus, dum indies creberrime exantlatur.Vergil, Aeneis, 9, 610.Nullum habeo symmistam, ut nosti, opinor.Plures iussu principis vocavi; sed horrent id, quod ego quęror.Metuunt enimenim sibi ab ingeniis cervinisüber der Zeile nachgetragen.ingenium cervinum: ein ängstliches Wesen; s., nec ego quenquam nisi volentem ad me trahere volo, etc.Adagia, 2, 7, 36 (ASD II/4 110,Nr.</s>
+				<s n="2" xml:lang="la">1636).Quod vero ad res meas adtinet, male collocat illeWohl, quem ex nomine nosti,Hans Henman I.</s>
+				<s n="3" xml:lang="la">(Amandus), Truchsess vonRheinfelden, der Vogt zu Reichenweier; s.HBBW XIII[Nr.</s>
+				<s n="4" xml:lang="la">1806] 304, Anm.</s>
+				<s n="5" xml:lang="la">7;Amerbach Korr. VI 412, Anm.</s>
+				<s n="6" xml:lang="de">3.</s>
+				<s n="7" xml:lang="de">- Im Sommer 1534 ist Henman als "vogt zu Richenwyler" durch zwei Briefe,Johannes Frosch als "Schaffner" durch einen Brief bezeugt (s. Basel UB, G 2126, f.</s>
+				<s n="8" xml:lang="la">3f und 5, bzw.</s>
+				<s n="9" xml:lang="de">f.</s>
+				<s n="10" xml:lang="de">2-Herrn Beat Rudolf Jenny sei für diese Ermittlung herzlich gedankt).</s>
+				<s n="11" xml:lang="de">In einem Brief von Juni 1536 bezeichneteJohannes Frosch sich jedoch gleichzeitig als "questor" (Schaffner) und "praefectus" (Vogt oder Amtmann) von Reichenweier (HBBW VI 333).</s>
+				<s n="12" xml:lang="de">Frosch ist als Vogt bis Ende 1538 bezeugt (HBBW V 427).</s>
+				<s n="13" xml:lang="de">Zuvor aber, im Juli 1537, übernahmHans Vogler d.Ä. das Amt des Schaffners zu Reichenweier (HBBW VII 186f und Anm.</s>
+				<s n="14" xml:lang="la">2.257: VIII 165), das er bis Oktober 1541 innehatte (HBBW X 48, 23-27; XI 337 und Anm.</s>
+				<s n="15" xml:lang="de">5).</s>
+				<s n="16" xml:lang="de">Das Amt des Vogtes ging 1539 von Frosch an Henman über (HBBW XIII 304;Rhenanus BW 497).</s>
+				<s n="17" xml:lang="la">Der Name des NachfolgersVoglers als Schaffner ist allerdings nicht bekannt, während Henmans Tätigkeit als Vogt von Reichenweier weiterhin mindestens bis 1552 und vielleicht sogar bis 1558 nachgewiesen ist (Christoph von Württemberg BW I 444f,Nr.</s>
+				<s n="18" xml:lang="la">422; 463,Nr.</s>
+				<s n="19" xml:lang="de">436).</s>
+				<s n="20" xml:lang="de">Aufgrund Graf Georgs finanzieller Schwierigkeiten zum Zeitpunkt der KündigungVoglers ist anzunehmen, dass seit Ende 1541 Henman zugleich das Amt des Schaffners ausübte, wie dies zuvor schon Frosch eine Zeitlang getan hatte.</s>
+				<s n="21" xml:lang="de">DaErb schon im Sommer 1540, also kurz nach Henmans Anstellung als Vogt, Reichenweier zu verlassen gedachte (s.Adam, Elsass 299f; Zürich ZB, Ms 48, 95 - dort jedoch ohne Erwähnung Henmans; s. aber unten Z.</s>
+				<s n="22" xml:lang="la">30 und Anm.</s>
+				<s n="23" xml:lang="de">16) und sich erneut im Oktober 1544 über den "novus ille oeconomus, a quo tota respublica et oppidi et agri pendet" bitter beklagte (HBBW XIV[Nr.</s>
+				<s n="24" xml:lang="de">2012] 464f, 16-25), wird es wohl der an StelleVoglers ernannte Schaffner, Vogt Henman, gewesen sein, derErb erneut dazu veranlasste, über einen Weggang aus Reichenweier nachzudenken (s. obenNr.</s>
+				<s n="25" xml:lang="de">2209, 2-6).Bullinger erwähnt stipendia.Henman in einem Brief anErb aus dem Jahre 1543; s.HBBW XIII 272, 8.</s>
+				<s n="26" xml:lang="de">- Über diesen wird Bullinger durchHans Vogler d.Ä. (s.HBBW XIII 122,2-6; XIV 63, 2-4), Pelikan (HBBW XIV 331, 30f) und die Zürcher Kanzleilehrlinge (Hans Vogler d.J. undGerold Meyer von Knonau d.J.) einiges erfahren haben.Ex patrimonio intra quinquenniumD.h.</s>
+				<s n="27" xml:lang="de">seit 1539, was mit dem Amtsantritt ducentos fere aureos non in meamHenmans übereinstimmt., sed magis ecclesię necessitatem exposui, quod dies domini revelabit.In der Vorlage meum.Nec quęror, optime frater, de perditis rebus, sed de Harpiis furacibus, qui recte monentes non exaudiunt et ecclesię avaritię notam inurunt; quod non adeo magni referret, nisi metuendum de excidio foret.Quamdiu rapiendum, placet Christus; dum defecerit ecclesię fiscus, non placebit ultra Christus!Hactenus 3Gemeint sind: fuimus in isto oppido, ubi quisque designatum habuitErb sein DiakonGeorg Höltzlin(Bopp I 246,Nr.</s>
+				<s n="28" xml:lang="de">2296; II 294) - erst 1546 sollteErb wiederum einen Kollegen erhalten - und der Leiter bzw.</s>
+				<s n="29" xml:lang="la">Hauptlehrer der Lateinschule in Reichenweier,Laurentius Montanus, dessen Stelle damals offenbar ebenfalls vakant war.</s>
+				<s n="30" xml:lang="la">Montanus (s.HBBW XIV[Nr.</s>
+				<s n="31" xml:lang="de">1942] 307, Anm.</s>
+				<s n="32" xml:lang="la">1) wird nämlich kurz zuvor Reichenweier verlassen haben, währendLudwig Gravenbühler (auch Bieler genannt) erst 1545 nach Abfassung dieses Briefes und nicht, wie meist angenommen, bereits 1544 (s.Bopp I 195,Nr.</s>
+				<s n="33" xml:lang="de">1785; II 480) die Leitung der Lateinschule übernahm.</s>
+				<s n="34" xml:lang="de">Als Hilfslehrer wirkte damals schonJohannes Ulstetter; s. untenNr.</s>
+				<s n="35" xml:lang="la">2283, Anm.</s>
+				<s n="36" xml:lang="de">16. stipendium.Ego nunc solus omnibus curis pręfectus aegre a satrapisZu verstehen: von den Beamten, u.a.</s>
+				<s n="37" xml:lang="la">vom neuen Schaffner. meum recipio stipendium, et si egerem, vix triobulo sublevarent.Sunt pręterea et alię rationes, quibus te nolo nunc gravare scribendo, etc.Atque inter tot turbines nondum video satis iustam occasionem desertionis huius ecclesię.In der Vorlage Acque.</s>
+				</p><p><s n="1" xml:lang="la">Summa.Ita haereo inter sacrum et saxumIn der Vorlage heraeo.Siehe Adagia, 1, 1, 15 (, ut nunc sine discrimine ecclesięque Christi maxima iactura, ut facile intelligis, discedere nequeam.ASD II/1 128f, Nr.</s>
+				<s n="2" xml:lang="la">15).</s>
+				</p><p><s n="1" xml:lang="de">Atque eę sunt potissimę rationes.Ecclesias nostras iam a sexto annoD.h.</s>
+				<s n="2" xml:lang="la">seit 1538, als Erbin Reichenweier tätig wurde. utcunque in ordinem, ut potuimus - quando, ut volueramus, non licuit - redegimus.</s>
+				</p><p><s n="1" xml:lang="de">Annitendum ergo, ut cępta perficiantur.Ad hoc ecclesia illa nobis contigua, Montbelgardiana, cum suo principe adhuc vacillat; de qua totus liber foret perscribendus.Graf Christoph von Württemberg.Pręterea scholę quattuor in isto parviusculo agro sunt constitutę et quinta in rure instituenda,Je eine Schule in Reichenweier (s. stipendia quoque studiosis quibusdam ante paucos menses pollicita,Bopp II 479f) und in Hunaweier (s.Rhenanus BW 537).</s>
+				<s n="2" xml:lang="de">Unbekannt ist, wo die zwei anderen Schulen sich befanden und wo die noch geplante Schule sich befinden sollte; s.Adam, Elsass 300.</s>
+				<s n="3" xml:lang="de">- Das zur Grafschaft gehörende Gebiet wird vonAdam, Elsass 293.</s>
+				<s n="4" xml:lang="la">297-299 undBopp II 293 definiert.Erst 1555 kam es zur Einrichtung eines solchen Stipendiums durch Graf Georg; s. sed haec non omnia firmata et rata, proponenda etiamnum ecclesię quędam decreta, quibus ad disciplinam et sanctos mores utcunque redigantur, idque statim redeunte principe.Adam, aao, S.</s>
+				<s n="5" xml:lang="la">306.Illo enim absente haec omnia conscripta sunt.Dum igitur nunc mutavero locum omnia sub cultro relinquensomnia sub cultro relinquens: alles der Gefahr aussetzend; vgl., facile intelligis, quid periculi inmineat.Adagia, 2, 10, 83 (ASD II/4 328,Nr.</s>
+				<s n="6" xml:lang="la">1983).In primis severus princeps, a quo omnia pendent, facile vel mutaretur vel irritaretur, ut solet hoc hominum genus; id quod nimirum magis in ecclesię quam in meum incomodum cęderet.Viden inter coelum et terram me suspensum palpitare neque posse hac ratione vel vocatione, quę tamen et sancta et iusta, liberari?Occasio mihi expectanda comodior, quę me liberet sine ecclesię iactura.Am Rande nachgetragen.Nam si iam abirem, ecclesia viduata absque pastore inter cunctatores et cessatores fluctuaret, etc.</s>
+				</p><p><s n="1" xml:lang="de">Ago vero et habeo tibi gratias inmortales, humanissime Bullingere, quod admodum ingenti cura meo nomine laboraveris, atque hoc impensius te amo, quod charitatis offitium non fucate, sed dextre candideque in me collocaris, imo significaris in hac sancta vocatione.Respondebit olim procul dubio deus optimus maximus tuis votis, quoAugustani nanciscantur virum aliquem sanctum, ecclesię dignum ministrum, atque ego etiam tuis assiduisJohannes Haller wurde schließlich aus Zurich nachAugsburg gesandt; s. obenNr.</s>
+				<s n="2" xml:lang="la">2164, Anm.</s>
+				<s n="3" xml:lang="de">10. praecibus vel liberer publica occasione vel sub onere non defitiam.Sed te etiamnum per Iesum Christum, ne deinceps plus mihi vel tribuas, immodicus scilicet virtutum mearum, quibus penitus careo, pręco, vel magis sentias de me, quam res est.In der Vorlage folgt ein durch die Hinzufügung von praeco(unten Z.</s>
+				<s n="4" xml:lang="la">69) überflüssig gewordenes oro.Optime enim mihi ipsi conscius sum curtę suppellectilis, quam tu, ni fallor, maiori atque ego, nescio quorum iuditio persuasus, aestimas.Persius, Saturae, 4, 52.</s>
+				</p><p><s n="1" xml:lang="de">Porro, quod nunc temporis importunitas negat, alias benignus deus, ecclesiarum verus et unicus pastorVgl.</s>
+				<s n="2" xml:lang="la">Hebr 13, 20; 1Petr 2, 25; 5, 4., solita clementia sancta resarciet oportunitate.Sancto quoque magistratuiAugustano, inprimis vero erudito viro dominoGeorgio Leto, ingentes gratias meo nomine agas, obsecro, quod me, ineptum homuntionem,Georg Frölich.Vgl.</s>
+				<s n="3" xml:lang="la">1Kor 15,9; Eph 3, 8. adeo egregia dignati sint vocatione.Ego quoque deinceps eius ecclesię maiorem habebo - si potis fuero - ubique rationem, optoque illis stabilem pacem et concordiam talesque antistites, qui pietate, eruditione, prudentia, vigilantia et fidelitate ita pręmineant, quo Christus in ea republica ita mittat radices, ut nullis satanę et impiorum imposturis deiiciatur.Monebis ergo illos, ne me deinceps expectent; ignoro enim meam liberationem.Servet te Christus.</s>
+				</p><p><s n="1" xml:lang="de">[Beilage:]Nova: Absolutionem conmitiorumDer Reichstag zu non ignoras, in quibus nil certi definitum, nisi quod istis hybernis mensibus adversarii nobis pacem condixerunt; futura aestate nobis providendum eritWorms.Ein Gerücht..Acta comitiorum nondum sunt publicataDer auf den 4.</s>
+				<s n="2" xml:lang="de">August 1545 datierte Reichsabschied war damals oder kurz zuvor im Druck erschienen: Prorogation unnd Erstreckunge deß Reichsztags imm Jar M.D.XLV.</s>
+				<s n="3" xml:lang="la">inn Wormbs gehalten belangend die sachen unnd handlungen so daselbst erledigt werden solten und auff den nechstkuenfftigen Reichsztag ghen Regenspurgk Verschoben sein.</s>
+				<s n="4" xml:lang="la">Mit.VD 16 D 1110f. sind lediglich zwei Mainzer Drucke verzeichnet.</s>
+				<s n="5" xml:lang="la">- Text in RTA JR XVI/2 1657-1662,Nr.</s>
+				<s n="6" xml:lang="de">341.Aiunt quidam caesari omnia esse commissa, ut dicat sententiam etiam in religionis negotio certis tamen conditionibus; quodsi verum fuerit, ovem dicemus lupoKarl V.Vgl.</s>
+				<s n="7" xml:lang="la">Joh 10, 12. commissam.</s>
+				</p><p><s n="1" xml:lang="la">Ferdinandus priori septimanaZu verstehen: In der ersten Augustwoche.</s>
+				<s n="2" xml:lang="la">- a comitiis magno strepitu solvens Bohemiam petit cumFerdinand I. war am 31.</s>
+				<s n="3" xml:lang="de">Juli 1545 ausWorms abgereist; s. untenNr.</s>
+				<s n="4" xml:lang="de">2214, 28 und Anm.</s>
+				<s n="5" xml:lang="de">20.Nausea suo et quibusdam monachis.Friedrich Nausea, Bischof vonWien.Sequenti septimana caesar abiturus estest, sed quo, ignoraturüber der Zeile nachgetragen..Karl V. hatteWorms am 7.</s>
+				<s n="6" xml:lang="de">August in RichtungKöln verlassen; s. obenNr.</s>
+				<s n="7" xml:lang="de">2214, 31 und Anm.</s>
+				<s n="8" xml:lang="de">23f.Erant alia dicta comitia adReginospurgum ad mensem octobrem,Der geplante Reichstag in, sed aiunt quidam irritataRegensburg, der erst Anfang 1546 begann; s. obenNr.</s>
+				<s n="9" xml:lang="de">2211, Anm.</s>
+				<s n="10" xml:lang="la">24.Hier im Sinne von "vergeblich"; s., etc. Dic.</s>
+				<s n="11" xml:lang="la">199.Dasypodius,</s>
+				</p><p><s n="1" xml:lang="de">Urgent plures nacionale concilium, idqueMetis celebrari postulant.Metz.MusherVom französischen "Monsieur". de Gyß, defuncti ducis Lotharingię fraterClaude I. von Lothringen, Herzog von Guise.Der am 12.</s>
+				<s n="2" xml:lang="de">Juni 1545 verstorbene, patruum suumFrançois I. von Lothringen war nicht Claudes Bruder, sondern sein Neffe.</s>
+				<s n="3" xml:lang="de">Bruder von Claude war der Vater des Verstorbenen, nämlichAnton II.</s>
+				<s n="4" xml:lang="la">von Lothringen (gest.</s>
+				<s n="5" xml:lang="de">Juni 1544).Hier im Sinne von Neffe; s. conscripto milite et auxilio regisGrimm I 1147; XII/2 27-33.</s>
+				<s n="6" xml:lang="de">- Damit ist der zweijährigeKarl III.</s>
+				<s n="7" xml:lang="la">von Lothringen, Sohn von François, gemeint, daNicolas von Lothringen (Neffe von Claude de Guise und Bruder von François), der seitdem 6.</s>
+				<s n="8" xml:lang="de">August 1545 gemeinsam mit der Mutter Karis III.,Christine von Dänemark (eine Nichte Karis V.</s>
+				<s n="9" xml:lang="de">), die Vormundschaft ausübte,Frankreich zugetan war und von seinem Onkel kaum etwas zu befürchten hatte; s. AugusteDidot, Histoire de Lorraine, Bd.</s>
+				<s n="10" xml:lang="la">4, Nancy 1856, S.</s>
+				<s n="11" xml:lang="de">147. Gallorum conatur e ducatu pellere.König Franz I.Caesar vero iuniori, qui patriKarl III.</s>
+				<s n="12" xml:lang="la">von Lothringen. successit, subsidium etFrançois I. von Lothringen.Hispanum militem pollicitus est.Quodsi res non fuerit composita, putant novum bellum inter caesarem et Gallum oriturum.Feruntur alia quedam nova, sed forte non fide digna: mundus mendatiis scatetVgl..TPMA XIII 46, 125f: Die Welt ist falscher Zungen voll.Haec omnia raptim.</s>
+				</p><p><s n="1" xml:lang="la">Valebis igitur, vir humanissime, cum ecclesia sancta et familia.Salutabis vicissim tuos, in primis meumMegandrum,Erasmum,Erasmus Schmid.Pellicanum,Gvaltherum ac reliquos.</s>
+				</p><p><s n="1" xml:lang="la">Ex aedibus meis, 11. die augusti.</s>
+				</p><p><s n="1" xml:lang="la">TuusMatthias.<lb/> Erbius</s>
+				</p><p><s n="1" xml:lang="la">[Adresse auf der Rückseite:]Vere erudito pioque domino Henrycho Bullingero, ecclesię Tigurinae vigilanti ministro, suo patrono singulari, etc.</s>
+				</p></div>
+		</body>
+	</text>
+</TEI>
